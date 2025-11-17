@@ -103,7 +103,7 @@
 [UTCDate "2025.11.17"]
 [UTCTime "12:38:46"]
 
-3. Kg3 h1=Q 4. g8=Q+ (4. g8=R Nxg8 5. Nf3 Qh6 6. Rh1 Qxh1 7. d7 Qd1 8. Ng5+ Kg6 9. Ne6) (4. g8=B+ Nxg8 5. Nf3 Qh6 6. Rh1 Qxh1 7. d7 Qd1 8. Ng5+ Kg6 9. Ne6) 4... Nxg8 5. Nf3 Qh6 6. Rh1 Qxh1 7. d7 Qd1 8. Ng5+ Kg6 9. Ne6 *
+1. Kg3 h1=Q 2. g8=Q+ (2. g8=R (2. g8=B+ Nxg8 3. Nf3 Qh6 4. Rh1 Qxh1 5. d7 Qd1 6. Ng5+ Kg6 7. Ne6) Nxg8 3. Nf3 Qh6 4. Rh1 Qxh1 5. d7 Qd1 6. Ng5+ Kg6 7. Ne6) 2... Nxg8 3. Nf3 Qh6 4. Rh1 Qxh1 5. d7 Qd1 6. Ng5+ Kg6 7. Ne6 *
 
 
 [Event "Kasparyan: Kasparyan 7"]
