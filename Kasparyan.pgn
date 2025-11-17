@@ -32,3 +32,147 @@
 [UTCTime "06:35:50"]
 
 1... g3 2. Nf6+ Kf7 3. Ng4 g2 4. Ne5+ Ke6 5. Nf3 Nf5 6. Bf8 Nh4 *
+
+
+[Event "Kasparyan: Kasparyan 3"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 3"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/wCRsIYsQ"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/5Pr1/3R4/pp6/8/k2B4/2K5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "12:19:18"]
+
+1. Bg5 b3 2. Rd2+ Ka1 3. f7 Rxg5 4. f8=Q Rg1+ 5. Rd1 Rg2 6. Qa3+ Ra2 7. Rd2 Rxa3 8. Rb2 Ra2 9. Rb1# *
+
+
+[Event "Kasparyan: Kasparyan 4"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 4"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/isWjIQDN"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "Rb6/1p4Pq/1p6/P2pR3/4p3/1K6/5P2/k7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "12:22:43"]
+
+1. g8=Q Qxg8 2. Rg5 Qxg5 3. Kc2 b5 4. a6 b6 5. a7 Bd6 6. Rh8 Ka2 7. a8=Q+ Ba3 8. Rh1 b4 9. Qa4 *
+
+
+[Event "Kasparyan: Kasparyan 5"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 5"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/UG5N7SjF"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "k7/4b3/7q/8/2Q3Kp/8/5p2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "12:29:09"]
+
+1. Qc8+ Ka7 2. Qc7+ Ka6 3. Qxe7 f1=Q 4. Qb7+ (4. Qa7+ Kb5 5. Qc5+ Ka4 6. Qb4+) (4. Qa3+ Kb6 5. Qc5+ Kb7 6. Qc8+) 4... Ka5 5. Qb4+ *
+
+
+[Event "Kasparyan: Kasparyan 6"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 6"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/6dD9AwxC"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/6Pk/3P3n/8/6K1/8/7p/4R1N1 w - - 0 3"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "12:38:46"]
+
+3. Kg3 h1=Q 4. g8=Q+ (4. g8=R Nxg8 5. Nf3 Qh6 6. Rh1 Qxh1 7. d7 Qd1 8. Ng5+ Kg6 9. Ne6) (4. g8=B+ Nxg8 5. Nf3 Qh6 6. Rh1 Qxh1 7. d7 Qd1 8. Ng5+ Kg6 9. Ne6) 4... Nxg8 5. Nf3 Qh6 6. Rh1 Qxh1 7. d7 Qd1 8. Ng5+ Kg6 9. Ne6 *
+
+
+[Event "Kasparyan: Kasparyan 7"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 7"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/k39yD5lU"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/5B2/n1b3R1/3p4/5p2/2K5/4kp2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "12:44:08"]
+
+1. Re6+ Kd1 2. Bh5+ Kc1 3. Be2 Bb5 4. Bxb5 Nc7 5. Re2 Nxb5+ 6. Kd3 f1=R 7. Re1+ Rxe1 *
+
+
+[Event "Kasparyan: Kasparyan 8"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 8"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/dEMRq9x1"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3K1n2/b4P2/6P1/8/8/k7/7R/6r1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "12:48:43"]
+
+1. g7 Rxg7 2. Rh5 Rxf7 3. Ke8 Rh7 4. Rg5 Ne6 5. Ra5+ Kb3 6. Rxa7 (6. Ra3+) *
+
+
+[Event "Kasparyan: Kasparyan 9"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 9"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/FFZvRECc"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "kr6/7P/K7/2r1N3/8/8/3B4/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "13:04:09"]
+
+1. h8=Q Rxh8 2. Nd7 Rf5 3. Bb4 Rh6+ 4. Nb6+ Kb8 5. Bd6+ Rxd6 *
+
+
+[Event "Kasparyan: Kasparyan 10"]
+[Date "2025.11.17"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kasparyan"]
+[ChapterName "Kasparyan 10"]
+[ChapterURL "https://lichess.org/study/dE8Yq1Km/QJFP4KwE"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2N5/8/b2Kp2B/8/3k4/8/8/5N2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.17"]
+[UTCTime "13:06:06"]
+
+1. Bg7+ Ke4 2. Nd2+ Kd3 3. Nb3 Bxc8 4. Kc7 Kc4 5. Na5+ Kb5 6. Nc6 Ba6 7. Nb8 Ka5 8. Bc3+ Kb5 9. Bd2 *
