@@ -1,0 +1,106 @@
+[Event "Réti: Reti 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Réti"]
+[ChapterName "Reti 1"]
+[ChapterURL "https://lichess.org/study/qu7uiqFw/kJeprGJc"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "7K/8/k1P5/7p/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:24:10"]
+
+1. Kg7 h4 2. Kf6 h3 3. Ke6 Kb6 4. Kd6 (4. Kd7 h2 5. c7 h1=Q 6. c8=Q) 4... h2 5. c7 h1=Q 6. c8=Q *
+
+
+[Event "Réti: Reti 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Réti"]
+[ChapterName "Reti 2"]
+[ChapterURL "https://lichess.org/study/qu7uiqFw/Z7196d0X"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/6p1/k1P2p1p/7K/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:26:39"]
+
+1. Kg6 h5 2. Kxg7 h4 3. Kxf6 *
+
+
+[Event "Réti: Reti 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Réti"]
+[ChapterName "Reti 3"]
+[ChapterURL "https://lichess.org/study/qu7uiqFw/v66X51LW"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/3k4/1K6/8/4BR2/4p3/4p3/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:27:55"]
+
+1. Bf5+ Kd6 2. Rd4+ Ke7 3. Re4+ Kd8 4. Bd7 e1=Q 5. Bb5 Qd2 6. Re8# *
+
+
+[Event "Réti: Reti 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Réti"]
+[ChapterName "Reti 4"]
+[ChapterURL "https://lichess.org/study/qu7uiqFw/9sm1Xyp0"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/8/5k2/8/8/2p1p1p1/2R3K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:32:19"]
+
+1. Kf2 Ke4 2. Kxe2 Kd4 3. Ra1 (3. Rg1 Ke4 4. Re1 Ke5 5. Ke3 Ke6 6. Ke4 Kd6 7. Rg1 Ke6 8. Kd3 Ke5 9. Kxc2) 3... Ke4 4. Re1 Ke5 5. Ke3 Ke6 6. Ke4 Kf6 7. Rg1 Ke6 8. Kd3 Ke5 9. Kxc2 *
+
+
+[Event "Réti: Reti 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Réti"]
+[ChapterName "Reti 5"]
+[ChapterURL "https://lichess.org/study/qu7uiqFw/Z4ERD6Lq"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/B7/4p2N/5pp1/1kpK4/6P1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:34:43"]
+
+1. Ng3 fxg3 2. Bb5 e4+ 3. Ke2 c2 4. Ba4+ Kxa4 5. Kd2 Kb3 6. Kc1 Kc4 7. Kxc2 e3 8. Kd1 Kd3 9. Ke1 *
+
+
+[Event "Réti: Reti 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Réti"]
+[ChapterName "Reti 6"]
+[ChapterURL "https://lichess.org/study/qu7uiqFw/G2MwfsTw"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4kr2/5p1K/3p1Q2/1p4P1/4P3/1PP5/7b/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:36:18"]
+
+1. Kh6 Be5 2. Kg7 Bh2 3. c4 bxc4 4. e5 Bxe5 5. bxc4 Bxf6+ 6. gxf6 Rh8 7. Kxh8 Kd7 8. Kg8 Ke6 9. Kg7 *
