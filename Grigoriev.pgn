@@ -1,0 +1,88 @@
+[Event "Grigoriev: Grigoriev 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Grigoriev"]
+[ChapterName "Grigoriev 1"]
+[ChapterURL "https://lichess.org/study/3KOf9YAD/7EniEJh1"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/4k1P1/4p1p1/4K3/3P4/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:39:26"]
+
+1. g7 Kf7 2. Kf5 Kg8 3. Kg4 Kf7 4. Kxg5 e4 5. Kh6 *
+
+
+[Event "Grigoriev: Grigoriev 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Grigoriev"]
+[ChapterName "Grigoriev 2"]
+[ChapterURL "https://lichess.org/study/3KOf9YAD/W9qHLhB3"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3K4/8/8/1p5p/1P5P/8/8/4k3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:41:24"]
+
+1. Ke7 Ke2 2. Ke6 Ke3 3. Ke5 Ke2 4. Ke4 Ke1 5. Ke3 Kf1 6. Kf4 *
+
+
+[Event "Grigoriev: Grigoriev 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Grigoriev"]
+[ChapterName "Grigoriev 3"]
+[ChapterURL "https://lichess.org/study/3KOf9YAD/cny140tZ"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "Q7/2pk4/p2r4/P1K5/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:42:37"]
+
+1. Qf8 Rc6+ 2. Kb4 Rd6 3. Qf5+ Ke7 4. Kc5 Kd8 5. Qg4 Ke7 6. Qc8 *
+
+
+[Event "Grigoriev: Grigoriev 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Grigoriev"]
+[ChapterName "Grigoriev 4"]
+[ChapterURL "https://lichess.org/study/3KOf9YAD/Mf2u7kln"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "7k/1p1p4/3p4/P2P4/3P2p1/6P1/6P1/K7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:44:32"]
+
+1. Kb1 Kh7 2. Kc1 Kh6 3. Kb2 Kg6 4. Kb3 Kf6 5. Kb4 Ke7 6. Kc4 Ke8 7. Kd3 Kd8 8. Ke3 *
+
+
+[Event "Grigoriev: Grigoriev 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Grigoriev"]
+[ChapterName "Grigoriev 5"]
+[ChapterURL "https://lichess.org/study/3KOf9YAD/Udvw8Y0t"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/8/6Q1/2K5/p7/1p6/k7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:47:39"]
+
+1. Qf6 Ka2 2. Qf2 Ka1 3. Qd4 Ka2 4. Qd2 Ka1 5. Qc3 Ka2 6. Qb3+ *
