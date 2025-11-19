@@ -1,1 +1,161 @@
 
+[Event "Kubbel: Kubbel 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 1"]
+[ChapterURL "https://lichess.org/study/2lePab0N/HwYd56rx"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1N6/8/K7/3k4/3p3B/p7/2PP4/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:17:24"]
+
+1. Nc6 Kxc6 2. Bf6 Kd5 3. d3 a2 4. c4+ Kc5 5. Kb7 a1=Q 6. Be7# *
+
+
+[Event "Kubbel: Kubbel 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 2"]
+[ChapterURL "https://lichess.org/study/2lePab0N/iKLUkJtH"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "kNK5/8/1P6/1p6/1P6/3q4/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:19:15"]
+
+1. b7+ Ka7 2. Nc6+ Ka6 3. b8=N+ Kb6 4. Nd7+ Kxc6 5. Ne5+ Kd5 6. Nxd3 Kc4 7. Kb7 (7. Kc7 Kxd3 8. Kb6 Kc4 9. Ka5) 7... Kxd3 8. Ka6 Kc4 9. Ka5 *
+
+
+[Event "Kubbel: Kubbel 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 3"]
+[ChapterURL "https://lichess.org/study/2lePab0N/4IfYEm3G"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "kNK5/8/1P6/1p6/1P6/3q4/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:22:11"]
+
+ *
+
+
+[Event "Kubbel: Kubbel 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 4"]
+[ChapterURL "https://lichess.org/study/2lePab0N/EHqaHR0I"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/8/7n/8/4n3/3kp1K1/6N1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:28:53"]
+
+1. Kh3 Nf4+ 2. Kh2 Ng4+ 3. Kh1 Nf2+ 4. Kh2 e1=N 5. Nf3+ Nxf3+ 6. Kg3 *
+
+
+[Event "Kubbel: Kubbel 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 5"]
+[ChapterURL "https://lichess.org/study/2lePab0N/GeUJb5nR"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/kp6/8/3P4/3N4/1P6/8/1b1K4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:30:55"]
+
+1. d6 Kb8 2. Kc1 Bd3 3. d7 Kc7 4. Ne6+ Kxd7 5. Nc5+ Kc6 6. Nxd3 *
+
+
+[Event "Kubbel: Kubbel 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 6"]
+[ChapterURL "https://lichess.org/study/2lePab0N/PkTCtxnc"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5b2/1p4p1/p7/k1P1N3/8/8/P1K3P1/8 w - - 0 6"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:32:11"]
+
+6. c6 bxc6 7. Kb3 Kb5 8. a4+ Kc5 9. Nd7+ Kd6 10. Nxf8 *
+
+
+[Event "Kubbel: Kubbel 7"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 7"]
+[ChapterURL "https://lichess.org/study/2lePab0N/KziNjxkf"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "7K/8/2b5/8/6kP/8/5R2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:33:09"]
+
+1. Rf6 Be8 2. Rh6 Bh5 3. Kg7 Kxh4 4. Kf6 Kg4 5. Rh8 Kh4 6. Kf5 Kg3 7. Rxh5 *
+
+
+[Event "Kubbel: Kubbel 8"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 8"]
+[ChapterURL "https://lichess.org/study/2lePab0N/OcIz5WQ9"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4k3/4p1p1/8/3P3P/1p6/5PPr/1P2N3/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:34:30"]
+
+1. Nf4 Rxg3+ 2. Kf2 Rg5 3. Ne6 Re5 4. f4 Re4 5. b3 Kf7 6. Ng5+ Kf6 7. Nxe4+ *
+
+
+[Event "Kubbel: Kubbel 9"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Kubbel"]
+[ChapterName "Kubbel 9"]
+[ChapterURL "https://lichess.org/study/2lePab0N/4hrxxuDu"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4krN1/4p3/5P2/5p2/8/7R/7p/7K w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "12:35:51"]
+
+1. Rh7 exf6 2. Re7+ Kd8 3. Ra7 Ke8 4. Nh6 Kd8 5. Nf7+ Ke8 6. Nh8 f4 7. Ra8+ Ke7 8. Ng6+ Kf7 9. Nxf8 *
