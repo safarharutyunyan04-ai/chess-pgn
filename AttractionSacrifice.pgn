@@ -1,0 +1,618 @@
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction - Explained | Rinck, 1903"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction - Explained | Rinck, 1903"]
+[Result "*"]
+[FEN "6q1/6p1/2k4p/R6B/p7/8/2P3P1/2K5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction - Explained | Rinck, 1903"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/5AW5ssKY"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "6q1/6p1/2k4p/R6B/p7/8/2P3P1/2K5 w - - 0 1"]
+[SetUp "1"]
+
+{ Attraction tactics, often referred to as ‘decoys’, are all about luring an enemy piece, usually through sacrifice, to a specific square on the chessboard, in order to unleash a further tactic on that piece.   The most common examples of attraction include:   1. Luring an enemy piece into a winning pin, fork, or skewer   2. Luring the enemy king to set up a forced mate  The following elegant study by the classic French composer, Henri Rinck, demonstrates a number of nice examples of the attraction motif.   Through a series of 'lures', White is eventually available to win Black's queen: }
+1. Ra8 { A powerful move. Black's queen can't take the rook in view of Bf3+, but also has a hard time finding a square that doesn't lead to an immediate pin/skewer for White. } 1... Qa2 { The only safe square, it seems. Other tries lose immediately:   1...Qxa8  2.Bf3++-   1...Qe6  2.Ra6++-   1...Qd5  2.Bf3+-   1...Qc4  2.Rc8++-   1...Qh7  Also appears safe at first glance, but loses for the same reason as we'll see in the main line. } 2. Rxa4 { Setting up another winning skewer.   2.Be8+?  doesn't work after  2...Kb6  3.Rxa4  Qe6  and Black is fine. } 2... Qg8 { Once again the only safe square.   2...Qxa4  3.Be8+  is another winning skewer. } 3. Ra8 { The rook returns to a8 @@StartBracket@@again if Qxa8 then Bf3+ wins@@EndBracket@@, but this time Black's queen does not have the a2-square available. Instead, Black's queen is forced to go to h7: } 3... Qh7 { Finally the queen is forced to go to this square. This time, it's the bishop that delivers the fatal attraction: } 4. Bg6 { The queen is trapped and forced into a losing skewer. } 4... Qxg6 5. Ra6+ { White finally wins the queen and with it the game.   The main way to develop one’s ability to find these kinds of tactics is through consistent practice, which means solving lots of puzzles on this theme.   This chapter includes a number of relatively simple examples that should build up your pattern recognition when it comes to spotting this motif.   Make sure to first attempt each puzzle yourself  (think for up to 5 minutes)  before checking the solution, and then carefully review any problems you get wrong. Good luck! } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #1"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #1"]
+[Result "*"]
+[FEN "8/6k1/5q1p/8/7N/4B1P1/6KP/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #1"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/RNW3USho"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/6k1/5q1p/8/7N/4B1P1/6KP/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Bd4 { Luring Black's queen to d4. } 1... Qxd4 2. Nf5+ { Winning the queen and the game. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #2"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #2"]
+[Result "*"]
+[FEN "2k5/2pb4/8/1RN1q3/8/8/2P5/2K5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #2"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/ZEHj03NU"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "2k5/2pb4/8/1RN1q3/8/8/2P5/2K5 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rb8+ { Luring Black's king to b8. } 1... Kxb8 2. Nxd7+ { and White wins. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #3"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #3"]
+[Result "*"]
+[FEN "1Q6/2p3pk/6bp/4q3/5N2/7P/6P1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #3"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/1fBA48Pc"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "1Q6/2p3pk/6bp/4q3/5N2/7P/6P1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Qh8+ { Setting up a decisive knight fork. } 1... Kxh8 2. Nxg6+ { and White has won a full piece. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #4"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #4"]
+[Result "*"]
+[FEN "6k1/7p/8/5N2/8/6Pq/4B2P/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #4"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/Pd64WVRq"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "6k1/7p/8/5N2/8/6Pq/4B2P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Bg4 { Luring the queen to the g4-square. } 1... Qxg4 2. Nh6+ { and White wins. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #5"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #5"]
+[Result "*"]
+[FEN "6k1/6p1/3q1p2/6N1/8/1P6/1K4P1/7R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #5"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/7yhfyYWg"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "6k1/6p1/3q1p2/6N1/8/1P6/1K4P1/7R w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rh8+ { Luring the king to h8. } 1... Kxh8 2. Nf7+ { Winning the queen and the game. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #6 | Troitsky, 1898"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #6 | Troitsky, 1898"]
+[Result "*"]
+[FEN "4q3/7B/8/3k4/1Q6/8/7K/8 w - - 0 3"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #6 | Troitsky, 1898"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/V69peCGG"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "4q3/7B/8/3k4/1Q6/8/7K/8 w - - 0 3"]
+[SetUp "1"]
+
+{ White to play and win - }
+3. Bg8+ { No matter how Black responds, White sets up a winning skewer next. } 3... Qxg8 { 3...Kc6  4.Qa4++-   3...Ke5  4.Qe1++- } 4. Qb3+ { and it's game over. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #7"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #7"]
+[Result "*"]
+[FEN "2q5/2pb4/2k5/8/R1BKR3/8/8/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #7"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/kjZodRmm"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "2q5/2pb4/2k5/8/R1BKR3/8/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Ra8 { Setting up a winning skewer. } 1... Qxa8 { 1...Qb7  2.Bd5++- } 2. Bd5+ { and White wins. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #8"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #8"]
+[Result "*"]
+[FEN "2k2q2/2p2p2/8/5N2/8/8/2P1KP2/6R1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #8"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/OyJGHkGl"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "2k2q2/2p2p2/8/5N2/8/8/2P1KP2/6R1 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rg8 { Leading to a winning knight fork. } 1... Qxg8 2. Ne7+ { and White wins. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #9"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #9"]
+[Result "*"]
+[FEN "8/p7/3Npr1k/4p3/6P1/1B6/PK6/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #9"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/vpJn430f"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/p7/3Npr1k/4p3/6P1/1B6/PK6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. g5+ { Luring the king into a deadly knight fork. } 1... Kxg5 2. Ne4+ { and White should win the resulting endgame. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #10"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #10"]
+[Result "*"]
+[FEN "3q4/5p1k/3p1p2/p2N4/8/P7/1P3P2/1K2R3 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #10"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/BqCFpCrh"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "3q4/5p1k/3p1p2/p2N4/8/P7/1P3P2/1K2R3 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Re8 { Black's queen is trapped and must walk into the fork. } 1... Qxe8 { 1...Qd7  also loses to  2.Nxf6++- } 2. Nxf6+ { with a winning endgame. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #11"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #11"]
+[Result "*"]
+[FEN "1r4k1/1p3np1/p4p2/3Q4/8/1P3NPq/P6P/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #11"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/BwXW4ul9"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "1r4k1/1p3np1/p4p2/3Q4/8/1P3NPq/P6P/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Qxf7+ { Winning a piece thanks to the pin along the f-file. } 1... Kxf7 2. Ng5+ { with a decisive advantage. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #12"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #12"]
+[Result "*"]
+[FEN "8/2k2q2/2p5/8/2N5/4P3/4K3/1R6 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #12"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/BiuK3J1G"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/2k2q2/2p5/8/2N5/4P3/4K3/1R6 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rb7+ { Setting up another deadly fork. } 1... Kxb7 2. Nd6+ { and White keeps an extra piece. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #13"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #13"]
+[Result "*"]
+[FEN "5q2/1p2k3/p2p4/5bp1/1B6/P2P1P2/2K3P1/1Q6 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #13"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/ftLFn9Fk"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "5q2/1p2k3/p2p4/5bp1/1B6/P2P1P2/2K3P1/1Q6 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Bxd6+ { Setting up a winning skewer. } 1... Kxd6 2. Qb4+ { Winning the queen on f8. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #14"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #14"]
+[Result "*"]
+[FEN "8/pkpq4/8/2P4p/2NP4/1P5P/P5PK/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #14"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/tOActHYe"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/pkpq4/8/2P4p/2NP4/1P5P/P5PK/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. c6+ { However Black takes, White's knight will be able to give check and win the queen, resulting in a winning king + pawn endgame. } 1... Qxc6 { 1...Kxc6  2.Ne5++- } 2. Na5+ { with a decisive advantage. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #15"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #15"]
+[Result "*"]
+[FEN "3kq3/2pp1p2/Q3p3/3n4/8/8/1PP5/1K5R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #15"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/6KLxnrpk"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "3kq3/2pp1p2/Q3p3/3n4/8/8/1PP5/1K5R w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rh8 { Luring Black's queen away from the king. } 1... Qxh8 2. Qa8+ { with a winning skewer. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #16"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #16"]
+[Result "*"]
+[FEN "8/8/8/pb2q3/1k6/1P2N3/P3N3/1KB5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #16"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/lyLedHQc"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/8/8/pb2q3/1k6/1P2N3/P3N3/1KB5 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Ba3+ { Luring the king into an immediate mate. } 1... Kxa3 2. Nc2# { 1-0 White wins by checkmate. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #17"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #17"]
+[Result "*"]
+[FEN "8/6b1/1Q3p2/3k1P2/Bp2pP2/2q1n3/1N6/1K6 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #17"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/NLaUc0BW"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/6b1/1Q3p2/3k1P2/Bp2pP2/2q1n3/1N6/1K6 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Bb3+ { Winning Black's queen, thanks to the skewer on e6. } 1... Qxb3 { 1...Nc4  2.Bxc4++-  also wins. } 2. Qe6+ { and Qxb3 next. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #18"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #18"]
+[Result "*"]
+[FEN "8/8/kP6/1nRK4/8/8/1p6/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #18"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/CG8qtzGO"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/8/kP6/1nRK4/8/8/1p6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rxb5 { Luring the king into an eventual skewer.   1.b7?  would fail to  1...Nc7+!  2.Rxc7  b1=Q-+  and White's pawn is stopped. } 1... Kxb5 2. b7 b1=Q 3. b8=Q+ { A nice finish! } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #19"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #19"]
+[Result "*"]
+[FEN "5q2/1p1R4/p6k/P6p/3NPp1P/3P1P2/2P5/7K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #19"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/GgihYCL6"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "5q2/1p1R4/p6k/P6p/3NPp1P/3P1P2/2P5/7K w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win -  (hint: try to trap Black's king) }
+1. Rg7 { A fantastic move! Threatening Nf5+ which would force Black to give up the queen. Both captures of the rook lead to a winning knight fork as well.   1.Rd6+!?  would be met with  1...Kh7! } 1... Qxg7 { 1...Kxg7  2.Ne6++-  also wins. } 2. Nf5+ { and White will have two extra pawns in the king + pawn endgame. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #20 | Cozio, 1766"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #20 | Cozio, 1766"]
+[Result "*"]
+[FEN "1B5Q/1p6/pk6/3P4/b3P3/P7/KP6/2q2r2 w - - 0 2"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #20 | Cozio, 1766"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/kSASNBCU"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "1B5Q/1p6/pk6/3P4/b3P3/P7/KP6/2q2r2 w - - 0 2"]
+[SetUp "1"]
+
+{ White to play and win - }
+2. Qd4+ Qc5 { 2...Kb5  3.Qb4 } 3. Ba7+ { The key move. White wins the queen. } 3... Kxa7 4. Qxc5+ *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #21 | Maizelis, 1936"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #21 | Maizelis, 1936"]
+[Result "*"]
+[FEN "3k2r1/2pb4/R7/3NK3/8/8/5P2/8 w - - 0 2"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #21 | Maizelis, 1936"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/Vus6S6Rw"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "3k2r1/2pb4/R7/3NK3/8/8/5P2/8 w - - 0 2"]
+[SetUp "1"]
+
+{ White to play and win - }
+2. Ra8+ Bc8 3. Rxc8+ { Winning a piece, thanks to the fork on e7. } 3... Kxc8 4. Ne7+ { and White should win the endgame. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #22 | Rinck, 1902"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #22 | Rinck, 1902"]
+[Result "*"]
+[FEN "8/p7/8/2K5/k1N1p1BP/8/8/2q5 w - - 0 4"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #22 | Rinck, 1902"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/E5aFF1wP"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/p7/8/2K5/k1N1p1BP/8/8/2q5 w - - 0 4"]
+[SetUp "1"]
+
+{ White to play and win - }
+4. Bd1+ { Black's king is trapped, so the queen must walk into a knight fork. } 4... Qxd1 5. Nb2+ { and White will win thanks to the passed h-pawn. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #23 | Behting, 1894"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #23 | Behting, 1894"]
+[Result "*"]
+[FEN "8/8/p7/k1q1N3/6pK/1P6/P3P3/8 w - - 0 2"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #23 | Behting, 1894"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/gtkdGGbr"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/8/p7/k1q1N3/6pK/1P6/P3P3/8 w - - 0 2"]
+[SetUp "1"]
+
+{ White to play and win - }
+2. b4+ { However Black takes, White will have a winning fork. } 2... Qxb4 { 2...Kxb4  also leads to a losing king + pawn endgame for Black:  3.Nd3+  Kc4  4.Nxc5  Kxc5  5.Kxg4  Kd4  6.Kf4+-  and White's e-pawn decides the game. } 3. Nc6+ { and White wins the king + pawn endgame after taking the queen and snagging the g4-pawn:  For example   3.Nc6+  Kb5  4.Nxb4  Kxb4  5.Kxg4  Ka3  6.e4  Kxa2  7.e5  Kb2  8.e6+-  and Black is not even close. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #24 | Horwitz, 1884"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #24 | Horwitz, 1884"]
+[Result "*"]
+[FEN "8/8/2pk4/1p6/1q6/4B3/B3KN2/8 w - - 0 3"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #24 | Horwitz, 1884"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/cPWnqNAs"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/8/2pk4/1p6/1q6/4B3/B3KN2/8 w - - 0 3"]
+[SetUp "1"]
+
+{ White to play and win - }
+3. Bc5+ { Black can take the bishop two different ways, but both lead to a winning knight fork for White: } 3... Qxc5 { 3...Kxc5  4.Nd3+!  and White keeps enough material to mate.  4...Kd4  5.Nxb4+- } 4. Ne4+ Ke5 5. Nxc5 { and White should win, as long as they know how to mate with a knight and bishop! } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #25 | Van Tets, 1983"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #25 | Van Tets, 1983"]
+[Result "*"]
+[FEN "8/8/8/1q2k3/5R1K/8/3PP3/5B2 w - - 0 3"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #25 | Van Tets, 1983"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/5IkeKCDA"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/8/8/1q2k3/5R1K/8/3PP3/5B2 w - - 0 3"]
+[SetUp "1"]
+
+{ White to play and win - }
+3. Rf5+ { Luring the king into a discovered attack. } 3... Kxf5 4. e4+ { Winning the queen and the game. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #26 | Rinck, 1942"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #26 | Rinck, 1942"]
+[Result "*"]
+[FEN "2R5/4p3/3p3K/8/8/k1N5/6q1/1R6 w - - 0 5"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #26 | Rinck, 1942"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/KwmCPUt8"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "2R5/4p3/3p3K/8/8/k1N5/6q1/1R6 w - - 0 5"]
+[SetUp "1"]
+
+{ White to play and win - }
+5. Ra8+ { Forcing a winning skewer. } 5... Qxa8 6. Ra1+ { and White's extra rook should decide. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #27 | Proskurowski, 1972"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #27 | Proskurowski, 1972"]
+[Result "*"]
+[FEN "4K3/P7/1k6/8/8/2Q5/8/1q6 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #27 | Proskurowski, 1972"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/tv2jKEaX"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "4K3/P7/1k6/8/8/2Q5/8/1q6 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win -  (note that promoting would allow Black to draw after Qb5+) }
+1. Qa5+ { Luring Black's king to the a-file, where White can promote with check and follow with a winning skewer.   1.a8=Q?  would actually lead to a draw after  1...Qb5+  in view of multiple stalemating ideas, for example  2.Ke7   2.Kf7  Qc4+=  and it's stalemate if White takes.   2.Kf8  Qf5+  3.Kg8  Qe6+  4.Kh7  Qf5+  5.Kh6  Qe6+  and White's king has no way of avoiding a possible Qe5+, forcing a stalemate.  Qe5+!  3.Qxe5=  with an unfortunate stalemate. } 1... Kxa5 2. a8=Q+ { The point! Black's king is forced back onto the b-file for a deadly skewer.   2.a8=R+!  would also work!  2...Kb6  3.Rb8++- } 2... Kb6 3. Qb8+ { Remember this trick, as it can be quite useful in queen endgames! } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #28 | Stamma, 1737"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #28 | Stamma, 1737"]
+[Result "*"]
+[FEN "k7/2pR4/1p6/4q3/1NP5/1P3K2/8/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #28 | Stamma, 1737"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/aBX7gJ3q"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "k7/2pR4/1p6/4q3/1NP5/1P3K2/8/8 w - - 0 1"]
+[SetUp "1"]
+
+{ White to play and win - }
+1. Rd8+ Kb7 { 1...Ka7  2.Nc6++- } 2. Rb8+ { The key move, forcing a winning knight fork. } 2... Kxb8 3. Nc6+ { and it's game over. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #29 | Troitsky, 1898"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #29 | Troitsky, 1898"]
+[Result "*"]
+[FEN "7k/7p/7N/p7/1B6/6q1/2P3P1/5K2 w - - 0 3"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #29 | Troitsky, 1898"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/wvkpz30t"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "7k/7p/7N/p7/1B6/6q1/2P3P1/5K2 w - - 0 3"]
+[SetUp "1"]
+
+{ White to play and win - }
+3. Bd6 { It seems like Black's can avoid the attack, but White's second threat of Be5+ makes life difficult for Black. } 3... Qe3 { 3...Qxd6  4.Nf7++-  is White's main point, with a decisive advantage.   3...Qc3  is also met with  4.Be5++-   3...Qg6  4.Be5++-  forces Black to give up the queen as well. } 4. Be5+ { Anyway! Since Black's king has no moves, the queen is forced to take. } 4... Qxe5 5. Nf7+ { and White's knight will stop the a-pawn, with a winning endgame. } *
+
+
+[Event "Shadow_hokage's Study: Chapter 1: Attraction - Attraction #30 | Selezniev, 1912"]
+[Date "????.??.??"]
+[White "Chapter 1: Attraction"]
+[Black "Attraction #30 | Selezniev, 1912"]
+[Result "*"]
+[FEN "8/8/p7/6R1/1k5r/1Pp5/P1K4p/8 w - - 0 2"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Shadow_hokage's Study"]
+[ChapterName "Chapter 1: Attraction - Attraction #30 | Selezniev, 1912"]
+[ChapterURL "https://lichess.org/study/wQ7eec4A/pHZoSD49"]
+[Annotator "https://lichess.org/@/Shadow_hokage"]
+[FEN "8/8/p7/6R1/1k5r/1Pp5/P1K4p/8 w - - 0 2"]
+[SetUp "1"]
+
+{ Black's h-pawn looks decisive, but White has a winning trick up their sleeve! Can you find it? }
+2. a3+ { Luring the king into a nice skewer. } 2... Kxa3 3. Ra5+ Kb4 4. Ra4+ { The point, White wins the rook on h4 and stops the h-pawn. Game over. } *
