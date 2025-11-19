@@ -1,0 +1,142 @@
+[Event "Korolkov: Korolkov 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 1"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/3Dld9VD7"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2b4k/8/5Pr1/5N2/8/8/8/K1B5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:49:46"]
+
+1. f7 Ra6+ 2. Ba3 Rxa3+ 3. Kb2 Ra2+ 4. Kc1 Ra1+ 5. Kd2 Ra2+ 6. Ke3 Ra3+ 7. Kf4 Ra4+ 8. Kg5 Rg4+ 9. Kh6 Rg8 10. Ne7 Be6 11. fxg8=Q+ Bxg8 12. Ng6# *
+
+
+[Event "Korolkov: Korolkov 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 2"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/A5BQU48h"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2B5/pR6/2pP1k2/8/6Kb/4p1P1/5p2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:52:39"]
+
+1. d7 Ke7 2. Rb8 Bxg3 3. Ra8 f1=Q 4. d8=Q+ Kxd8 5. Ba6+ Bb8 6. Bxf1 Kc7 7. Ba6 e2 8. Bxe2 Kb7 9. Bf3 Kxa8 10. Bxc6# *
+
+
+[Event "Korolkov: Korolkov 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 3"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/Wk3kIPvv"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5k2/2r3pp/8/5K2/2b2R2/1N6/R3r3/7B w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "14:55:29"]
+
+1. Kg5+ Ke8 2. Rxc4 h6+ 3. Kg6 Re6+ 4. Kh7 Rxc4 5. Bd5 Ree4 6. Nd2 Ra4 7. Bc6+ *
+
+
+[Event "Korolkov: Korolkov 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 4"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/dzLsbfz5"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5k2/4bP1P/B7/5P2/1p5p/4pPB1/1q6/4K1R1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:01:00"]
+
+1. h8=Q+ (1. h8=R+ Qxh8 2. Be5 Qxe5 3. Rg8+ Kxf7 4. Bc4+ Kf6 5. Rg6+ Kxf5 6. Bd3+ Kf4 7. Rg4+ Kxf3 8. Be2#) 1... Qxh8 2. Be5 Qxe5 3. Rg8+ Kxf7 4. Bc4+ Kf6 5. Rg6+ Kxf5 6. Bd3+ Kf4 7. Rg4+ Kxf3 8. Be2# *
+
+
+[Event "Korolkov: Korolkov 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 5"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/3JrAUEvR"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4N3/2PP2P1/6b1/2bN3k/6p1/p7/K1pn4/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:03:45"]
+
+1. Nf4+ Kh6 2. g8=N+ Kh7 3. Ngf6+ Kh6 4. Nxg4+ Kh7 5. Nef6+ Kg7 6. Ne6+ Kf7 7. d8=N+ Ke7 8. c8=N# *
+
+
+[Event "Korolkov: Korolkov 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 6"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/C2RkJCCW"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1k6/6p1/1P6/P1pR4/2p3r1/pp1P4/6P1/1K6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:06:09"]
+
+1. a6 Rd4 2. dxc4 Ka8 3. a7 a2+ 4. Ka1 g6 5. g3 g5 6. g4 Kb7 7. Rxd4 cxd4 8. c5 d3 9. c6+ *
+
+
+[Event "Korolkov: Korolkov 7"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 7"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/1jYAHgCp"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5q2/1p1kp3/1P4p1/4B3/3N3K/1B6/5P2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:08:13"]
+
+1. Be6+ Ke8 2. Nf5 gxf5 3. Kh5 f4 4. f3 Kd8 5. Kg5 Ke8 6. Kg6 Kd8 7. Kh7 Ke8 8. Bg7 *
+
+
+[Event "Korolkov: Korolkov 8"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Korolkov"]
+[ChapterName "Korolkov 8"]
+[ChapterURL "https://lichess.org/study/4xFcoZVQ/4bH4xdoO"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/5k1N/1p1r1p2/3P4/1p6/3p4/1K1P1P1R/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:10:44"]
+
+1. Rh6 Kg7 2. Ng5 Rxd5 3. Rh7+ Kg6 4. Ne4 f5 5. Rh5 Rd4 6. Ng3 f4 7. Rh4 Kg5 8. f3 Kxh4 9. Nf5+ Kh3 10. Nxd4 Kg2 11. Kb3 Kf2 12. Kxb4 Ke1 13. Kc3 *
