@@ -1,0 +1,106 @@
+[Event "Smyslov: Smyslov 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Smyslov"]
+[ChapterName "Smyslov 1"]
+[ChapterURL "https://lichess.org/study/dsPx8Wtf/lWiWccMr"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r7/4p3/7K/p4p1P/6pk/5Pp1/PB4P1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:15:05"]
+
+1. Bf6+ exf6 2. f4 Rh8+ 3. Kg7 Rxh5 4. a4 Rg5+ 5. Kh8 Rg6 6. Kh7 Kh5 7. Kh8 Rh6+ 8. Kg7 Rg6+ 9. Kh8 Kh6 *
+
+
+[Event "Smyslov: Smyslov 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Smyslov"]
+[ChapterName "Smyslov 2"]
+[ChapterURL "https://lichess.org/study/dsPx8Wtf/C6h12bfI"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "6N1/8/7p/2Kp1k2/8/p5PP/7P/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:16:46"]
+
+1. Ne7+ Kg5 2. h4+ Kh5 3. Nc6 a2 4. Ne5 a1=Q 5. Kxd5 Qa2+ 6. Ke4 Qxh2 7. g4+ Kxh4 8. Nf3+ *
+
+
+[Event "Smyslov: Smyslov 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Smyslov"]
+[ChapterName "Smyslov 3"]
+[ChapterURL "https://lichess.org/study/dsPx8Wtf/EzFveIdd"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "7k/b7/5K2/1b6/1p6/1P6/8/3R4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:18:19"]
+
+1. Kf7 Bc6 2. Rd8+ Kh7 3. Rd3 Bg2 4. Rd2 Bf2 5. Kf6 Bh4+ 6. Ke6 Bh3+ 7. Kf7 Bg4 8. Rh2 Bh5+ 9. Kf8 Bd1 10. Rxh4+ Kg6 11. Rxb4 *
+
+
+[Event "Smyslov: Smyslov 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Smyslov"]
+[ChapterName "Smyslov 4"]
+[ChapterURL "https://lichess.org/study/dsPx8Wtf/bGRrYjga"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2k5/p2p2qP/8/1Np5/2p1P3/K7/P2P4/4R1b1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:21:33"]
+
+1. Nd6+ Kb8 2. Rb1+ Ka8 3. Ne8 Qg3+ 4. Ka4 Bd4 5. e5 Bxe5 6. Nc7+ Bxc7 7. h8=Q+ Bb8 8. Qh1+ Qg2 9. Qxg2+ d5 10. Qxd5# *
+
+
+[Event "Smyslov: Smyslov 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Smyslov"]
+[ChapterName "Smyslov 5"]
+[ChapterURL "https://lichess.org/study/dsPx8Wtf/TL3xYWxt"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "k7/p7/P5Pp/K4P1P/3p3P/3P4/ppBN1b2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:23:12"]
+
+1. Bb1 a1=Q+ 2. Kb5 Bg3 3. g7 Bb8 4. g8=B Bf4 5. Bga2 Bxd2 6. f6 Bf4 7. f7 Bd6 8. Kc6 Bf8 9. Kc7 *
+
+
+[Event "Smyslov: Smyslov 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Smyslov"]
+[ChapterName "Smyslov 6"]
+[ChapterURL "https://lichess.org/study/dsPx8Wtf/WxWIz9ZB"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/3qB1p1/p1pppn2/k7/3NPR1P/1P2P3/P1K5/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "15:40:32"]
+
+1. Bd8+ Kb4 2. a3+ Kc5 3. Rxf6 gxf6 4. Kc3 d5 5. e5 fxe5 6. Bc7 exd4+ 7. exd4+ Kb5 8. a4# *
