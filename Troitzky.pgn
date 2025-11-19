@@ -1,1 +1,107 @@
+[Event "Troitzky: Troitzky 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Troitzky"]
+[ChapterName "Troitzky 1"]
+[ChapterURL "https://lichess.org/study/u5uY2sQ7/Pdzzov4o"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5k2/4p2p/6P1/3K4/8/4B3/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "08:09:10"]
+
+1. Bh6+ Kg8 2. g7 Kf7 3. g8=Q+ Kxg8 4. Ke6 Kh8 5. Kf7 e5 6. Bg7# *
+
+
+[Event "Troitzky: Troitzky 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Troitzky"]
+[ChapterName "Troitzky 2"]
+[ChapterURL "https://lichess.org/study/u5uY2sQ7/NT6OUzLr"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/2b2pp1/K2p4/p4P2/P7/6P1/8/2k3B1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "08:11:20"]
+
+1. f6 gxf6 2. Kb7 Bd8 3. Kc8 Be7 4. Be3+ Kc2 5. Kd7 Bf8 6. Ke8 Bg7 7. Kxf7 Bh8 8. Kg8 *
+
+
+[Event "Troitzky: Troitzky 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Troitzky"]
+[ChapterName "Troitzky 3"]
+[ChapterURL "https://lichess.org/study/u5uY2sQ7/dHZlgnIg"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1q6/2b2p1p/7k/8/1p1Q4/8/1K3B2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "08:12:40"]
+
+1. Qf6+ Kh5 2. Qf5+ Kh6 3. Be3+ Kg7 4. Qg5+ Kf8 5. Bc5+ Bd6 6. Qe5 Kg8 7. Bxd6 Qd8 8. Qg3+ Kh8 9. Be5+ f6 10. Qg5 *
+
+
+[Event "Troitzky: Troitzky 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Troitzky"]
+[ChapterName "Troitzky 4"]
+[ChapterURL "https://lichess.org/study/u5uY2sQ7/iTu9nkKV"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/2R5/3K4/4P3/2p1p1p1/2r5/8/6k1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "08:14:29"]
+
+1. e6 Rd3+ 2. Ke5 e3 3. Rxc4 e2 4. Rxg4+ Kf2 5. Re4 Re3 6. Rxe3 Kxe3 7. e7 e1=Q 8. Ke6 Kd4+ 9. Kd7 *
+
+
+[Event "Troitzky: Troitzky 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Troitzky"]
+[ChapterName "Troitzky 5"]
+[ChapterURL "https://lichess.org/study/u5uY2sQ7/97vh0KE2"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1K6/1B1p4/3P4/8/k7/1p6/8/1b6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "08:16:03"]
+
+1. Bc6+ Ka3 2. Bxd7 b2 3. Ba4 Bf5 4. Bc2 Bxc2 5. d7 b1=Q+ 6. Kc7 Qb4 7. d8=Q Qa5+ 8. Kd7 Ba4+ 9. Kc8 *
+
+
+[Event "Troitzky: Troitzky 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Troitzky"]
+[ChapterName "Troitzky 6"]
+[ChapterURL "https://lichess.org/study/u5uY2sQ7/bix2zUHl"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/2K1p1p1/4b3/7P/6p1/2k5/6N1/6B1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "08:53:17"]
+
+1. Kd8 Bf7 2. Kxe7 Bxh5 3. Nf4 g6 4. Ne2+ Kd3 5. Ng3 *
 
