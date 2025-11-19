@@ -1,0 +1,232 @@
+[Event "Minski: Minski 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 1"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/14j94b5q"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5r2/8/8/2p4Q/2p1N3/5p2/1N1Kp1p1/1kB3b1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "16:42:17"]
+
+1. Nc3+ Ka1 2. Qe5 Be3+ 3. Qxe3 g1=Q 4. Qxg1 f2 5. Nd3 e1=Q+ 6. Nxe1 Rd8+ 7. Kc2 Rd2+ 8. Kxd2 fxe1=Q+ 9. Kc2 Qf2+ 10. Ne2 Qxe2+ 11. Bd2+ Ka2 12. Qb1+ Ka3 13. Qa1# *
+
+
+[Event "Minski: Minski 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 2"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/tLNfBkiR"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/8/3KPk2/1N1PR3/7p/1b6/3r4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "16:45:41"]
+
+1. Re2 Bxd4 2. e6 h2 3. Rxh2 Be5+ 4. Nd3 Bxh2 5. e7 Rxd3+ 6. Kc6 Rd6+ 7. Kc7 Rh6+ 8. Kd8 Bc7+ 9. Kxc7 Rh8 10. Kd7 *
+
+
+[Event "Minski: Minski 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 3"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/UquaIo5y"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r7/P4P1k/8/5N2/7K/4R3/3q3B/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "16:50:14"]
+
+1. Bb8 Qd8+ 2. Kh5 Rxb8 3. axb8=B Qxb8 4. Re8 Qh2+ 5. Nh4 Qd6 6. f8=R *
+
+
+[Event "Minski: Minski 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 4"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/m80e7GmL"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2k4q/7r/2P1K3/N6p/7Q/8/1p6/5R2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "16:52:58"]
+
+1. Nc4 b1=Q 2. Rxb1 Rh6+ 3. Kd5 Qg8+ 4. Kc5 Rxc6+ 5. Kxc6 Qg6+ 6. Qf6 Qxf6+ 7. Nd6+ Kd8 8. Rb8+ Ke7 9. Re8# *
+
+
+[Event "Minski: Minski 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 5"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/azV6vZbB"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "N5R1/8/Pp6/1r4n1/1pk5/8/KP6/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "16:57:22"]
+
+1. a7 Ra5+ 2. Kb1 Rxa7 3. Nxb6+ Kb3 4. Re8 Ne6 5. Rxe6 Re7 6. Na4 Rc7 7. Ra6 Rh7 8. Nc5+ Kc4 9. Rc6 Kb5 10. Rc8 *
+
+
+[Event "Minski: Minski 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 6"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/RtpThJvh"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/3p3B/P2k2P1/3P4/7r/3K4/b3P3/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:01:36"]
+
+1. e4 Bb1+ 2. Kd2 Bxe4 3. a7 Bxd5 4. g7 Rd4+ 5. Bd3 Rg4 6. Bc4 Rd4+ 7. Bd3 Ra4 8. Be4 *
+
+
+[Event "Minski: Minski 7"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 7"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/RxjhMBEY"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/7p/5PPk/2b4P/r2P2P1/6K1/2P5/1b6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:05:43"]
+
+1. g7 Ba2 2. c4 Bd6+ 3. Kh4 Bg3+ 4. Kxg3 Bxc4 5. Kh4 Ra5 6. d5 Rxd5 7. g8=N# *
+
+
+[Event "Minski: Minski 8"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 8"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/gzPXVi7W"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2B5/6k1/b3K3/5PP1/5P2/1Q6/4p1P1/7q w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:09:04"]
+
+1. f6+ Kh8 2. g6 e1=Q+ 3. Kf7 Bc4+ 4. Qxc4 Qe8+ 5. Kxe8 Qe1+ 6. Qe2 Qxe2+ 7. Kf8 Qxg2 8. g7+ Kh7 9. Bb7 Qg1 10. Be4+ Kh6 11. g8=Q Qc5+ 12. Ke8 Qc8+ 13. Ke7 Qxg8 14. f7 Qg7 15. Ke8 *
+
+
+[Event "Minski: Minski 9"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 9"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/iG91S7A2"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3q4/5kpp/pr1P3Q/p3p3/b1p5/6P1/3PR3/5BK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:12:26"]
+
+1. Rf2+ Kg8 2. Qg6 Rb8 3. Bxc4+ Kh8 4. Bd3 Qh4 5. Qf5 Qxg3+ 6. Kf1 Qxd3+ 7. Qxd3 Bb5 8. Qxb5 axb5 9. d4 exd4 10. Rc2 Rf8+ 11. Ke1 Kg8 12. d7 Rd8 13. Rc8 *
+
+
+[Event "Minski: Minski 10"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 10"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/wJWrtVtR"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/3R4/2B3r1/2p5/4K3/8/4k1P1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:14:11"]
+
+1. Bb5+ c4 2. Bxc4+ Ke1 3. Bf1 Kxf1 4. g4 Rxg4+ 5. Kf3 Ra4 6. Rd1# *
+
+
+[Event "Minski: Minski 11"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 11"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/KnDtzWVs"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/3bPrb1/B5p1/2pP2K1/2p1k3/8/3R2N1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:16:06"]
+
+1. d6 Bd4 2. Re2+ Kd5 3. Bc8 Rf5+ 4. Kg4 Bxc8 5. e8=Q Rf8+ 6. d7 Rxe8 7. Re6 Bxd7 8. Nf4# *
+
+
+[Event "Minski: Minski 12"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 12"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/ZuyNDUEi"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "7q/K2kP3/5p2/4n3/1PR5/1R6/2B5/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:20:39"]
+
+1. Rc8 Kxc8 2. Rc3+ Nc6+ 3. Rxc6+ Kd7 4. Rc8 Kxc8 5. Bg6 Qg7 6. Bf5+ Kc7 7. e8=N+ Kc6+ 8. Nxg7 *
+
+
+[Event "Minski: Minski 13"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Minski"]
+[ChapterName "Minski 13"]
+[ChapterURL "https://lichess.org/study/IXmTXAys/XsOOJ5UP"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "6K1/N3pr2/4k3/3p3R/1q6/5B2/8/B7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:32:09"]
+
+1. Re5+ Kf6 2. Re4+ d4 3. Rxd4 Rg7+ 4. Kf8 Rg8+ 5. Kxg8 Qb3+ 6. Rd5+ e5 7. Bxe5+ Ke6 8. Nc6 Qxd5 9. Bg4# *
