@@ -1,1 +1,143 @@
+[Event "Rinck: Rinck 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 1"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/7GXrwHSu"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5b2/1B6/1P4k1/4P3/8/8/8/K7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:06:42"]
+
+1. Be4+ Kh6 2. b7 Bg7 3. b8=B *
+
+
+[Event "Rinck: Rinck 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 2"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/VykXkIIP"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1q6/2Rrk3/8/6K1/8/8/8/2Q5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:09:18"]
+
+1. Qc5+ Kd8 2. Kh6 Rxc7 3. Qf8+ Kd7 4. Qxb8 *
+
+
+[Event "Rinck: Rinck 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 3"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/QoLDGWXX"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1k6/3K1b2/8/8/1N6/8/4B3/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:10:40"]
+
+1. Nc6+ Ka8 2. Bf3 Bg8 3. Ne7+ Ka7 4. Nxg8 *
+
+
+[Event "Rinck: Rinck 4"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 4"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/IGgSym98"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2k4b/2P5/8/6N1/8/P7/2K5/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:11:50"]
+
+1. Nf7 Ba1 2. Kb1 Bg7 3. Nd6+ Kxc7 4. Ne8+ Kc6 5. Nxg7 *
+
+
+[Event "Rinck: Rinck 5"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 5"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/46SkPInj"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/p4b2/1p1p4/PPk4p/K6p/3PPNpP/6P1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:14:14"]
+
+1. Ng5 Bd5 2. a6 Bxg2 3. Ne6+ Kd5 4. Nf4+ Kc5 5. Nxg2 *
+
+
+[Event "Rinck: Rinck 6"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 6"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/y1uEb6ff"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/4p3/2bP4/8/8/p7/k2KN3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:15:24"]
+
+1. Kc1 Be3+ 2. Kc2 exd5 3. Nd3 d4 4. Nc5 d3+ 5. Nxd3 Bc1 6. Nc5 Bb2 7. Nb3# *
+
+
+[Event "Rinck: Rinck 7"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 7"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/KQ3w1ByE"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3q4/7Q/2p1p3/3p4/3k4/8/2K5/4B3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:17:41"]
+
+1. Bf2+ Ke5 2. Bg3+ Kd4 3. Bd6 Qxd6 4. Qd3+ Ke5 5. Qg3+ Kf5 6. Qxd6 *
+
+
+[Event "Rinck: Rinck 8"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rinck"]
+[ChapterName "Rinck 8"]
+[ChapterURL "https://lichess.org/study/UO7Ufrlg/dlnmzVrf"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5q1k/1RR5/8/8/8/8/4K3/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "09:18:56"]
+
+1. Rh7+ Kg8 2. Rhe7 Kh8 3. Rbc7 Kg8 4. Ra7 Kh8 5. Rf7 Qe8+ 6. Kf2 Kg8 7. Rg7+ Kf8 8. Rh7 Kg8 9. Rag7+ Kf8 10. Rh8+ Kxg7 11. Rxe8 *
 
