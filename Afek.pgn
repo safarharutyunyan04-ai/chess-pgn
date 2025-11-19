@@ -1,0 +1,52 @@
+[Event "Afek: Afek 1"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Afek"]
+[ChapterName "Afek 1"]
+[ChapterURL "https://lichess.org/study/UKclYOrm/jYrgdpsQ"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1kn2B2/2R1RP2/2P5/7r/8/1P1p2q1/K7/2N5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:37:28"]
+
+1. Rb7+ Ka8 2. Ra7+ Nxa7 3. Re8+ Nc8 4. Rxc8+ Ka7 5. Bc5+ Rxc5 6. Ra8+ Kxa8 7. f8=Q+ Qb8 8. Qxc5 d2 9. c7 dxc1=N+ 10. Kb1 Qc8 11. Qc6+ Ka7 12. Kxc1 Qh3 13. c8=N+ Kb8 14. Nb6 Qxb3 15. Qc8+ Ka7 16. Qa8+ Kxb6 17. Qb8+ *
+
+
+[Event "Afek: Afek 2"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Afek"]
+[ChapterName "Afek 2"]
+[ChapterURL "https://lichess.org/study/UKclYOrm/6bh27fUW"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5r2/8/1R6/ppk3p1/2N3P1/P4b2/1K6/5B2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:41:13"]
+
+1. Rxb5+ Kxb5 2. Ne5+ Ka4 3. Nd7 Be2 4. Bxe2 Rb8+ 5. Bb5+ Rxb5+ 6. Ka2 Rb1 7. Kxb1 *
+
+
+[Event "Afek: Afek 3"]
+[Date "2025.11.18"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Afek"]
+[ChapterName "Afek 3"]
+[ChapterURL "https://lichess.org/study/UKclYOrm/o3jh1m6f"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2b5/4R3/5P2/5k2/5p1B/7P/ppp3P1/4K2R w K - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.18"]
+[UTCTime "17:44:53"]
+
+1. g4+ fxg3 2. O-O+ Kg6 3. Rg7+ Kh5 4. f7 c1=Q 5. Rh7+ Kg6 6. f8=N# *
