@@ -1,1 +1,339 @@
 
+[Event "Cross pin: Chapter 1"]
+[Site "https://lichess.org/study/BPLVlesH/KMjqP1ku"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "8/2q1p1kp/8/p3b3/8/8/PB2P3/1K5Q w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 1"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/85zP07eK"]
+[FEN "8/2q1p1kp/8/p3b3/8/8/PB2P3/1K5Q w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qh2 *
+
+
+[Event "Cross pin: Chapter 2"]
+[Site "https://lichess.org/study/BPLVlesH/1MsVHGNR"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "Q7/5p1k/6p1/7p/4Q2P/6PK/8/3q2q1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 2"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/lqBsXxFz"]
+[FEN "Q7/5p1k/6p1/7p/4Q2P/6PK/8/3q2q1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Qdf1+ 2. Qg2 { [%cal Gf1h3] } 2... Qh1# { 0-1 Black wins by checkmate. } { [%cal Gh1a8,Gf1h3] } *
+
+
+[Event "Cross pin: Chapter 3"]
+[Site "https://lichess.org/study/BPLVlesH/NGGQOCbg"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "4r1k1/ppp2ppp/3b4/3P4/b2qrP2/1PPB1Q2/P2K2PP/R1B4R b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 3"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/zM6Cppfd"]
+[FEN "4r1k1/ppp2ppp/3b4/3P4/b2qrP2/1PPB1Q2/P2K2PP/R1B4R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Bb4 { [%cal Gb4d2,Gd4a1] } *
+
+
+[Event "Cross pin: Chapter 6"]
+[Site "https://lichess.org/study/BPLVlesH/KOAC3daZ"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "1r4k1/4qppp/Q2p4/5b2/8/b1PB4/PP3PPP/1KB4R b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 6"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/earXIya5"]
+[FEN "1r4k1/4qppp/Q2p4/5b2/8/b1PB4/PP3PPP/1KB4R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Qe2 *
+
+
+[Event "Cross pin: Chapter 7"]
+[Site "https://lichess.org/study/BPLVlesH/OddP6DCc"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "r3kbr1/p1q2p2/2b1p2p/1BP1P3/1p3Q1B/1Pp2N2/P4PPP/3R2K1 w q - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 7"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/YrEU1H4O"]
+[FEN "r3kbr1/p1q2p2/2b1p2p/1BP1P3/1p3Q1B/1Pp2N2/P4PPP/3R2K1 w q - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qe4 *
+
+
+[Event "Cross pin: Chapter 8"]
+[Site "https://lichess.org/study/BPLVlesH/iV4JrTcN"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "r5k1/p3qpp1/1P3b1p/8/3r4/2N1Q1Pb/PP3PBP/3R1K1R b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 8"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/hJret6Yk"]
+[FEN "r5k1/p3qpp1/1P3b1p/8/3r4/2N1Q1Pb/PP3PBP/3R1K1R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Qb7 *
+
+
+[Event "Cross pin: Chapter 9"]
+[Site "https://lichess.org/study/BPLVlesH/ekxORNvt"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "8/2k5/8/8/8/4b1p1/R3pBP1/6K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 9"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/PVIHxcrK"]
+[FEN "8/2k5/8/8/8/4b1p1/R3pBP1/6K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... e1=Q# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Cross pin: Chapter 10"]
+[Site "https://lichess.org/study/BPLVlesH/56Ciewl9"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "r3kb1r/p1q2p2/1pb1p1pp/1B2P1BQ/8/2P5/P4PPP/R3R1K1 w kq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 10"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/iYBYPuBq"]
+[FEN "r3kb1r/p1q2p2/1pb1p1pp/1B2P1BQ/8/2P5/P4PPP/R3R1K1 w kq - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qf3 *
+
+
+[Event "Cross pin: Chapter 11"]
+[Site "https://lichess.org/study/BPLVlesH/daV9T2lq"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "rn3knr/2R2p1p/p2p2p1/3b2q1/1p1N4/1B6/PP3PPP/3QR1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 11"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/eGknT7xw"]
+[FEN "rn3knr/2R2p1p/p2p2p1/3b2q1/1p1N4/1B6/PP3PPP/3QR1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qf3 Bxf3 2. Rxf7# *
+
+
+[Event "Cross pin: Chapter 12"]
+[Site "https://lichess.org/study/BPLVlesH/sA6q2zP1"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "4rrk1/p1pb1pp1/1pnq1P2/3Bp1p1/4Q3/2PP2P1/P1P4P/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 12"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/ILgB9XUj"]
+[FEN "4rrk1/p1pb1pp1/1pnq1P2/3Bp1p1/4Q3/2PP2P1/P1P4P/R4RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qg6 *
+
+
+[Event "Cross pin: Chapter 13"]
+[Site "https://lichess.org/study/BPLVlesH/5RBW9sO9"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "4r2k/8/p1p4p/2P5/1P6/5qp1/6QP/6RK b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 13"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/wIzKZoAF"]
+[FEN "4r2k/8/p1p4p/2P5/1P6/5qp1/6QP/6RK b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Re2 2. Qxf3 Rxh2# *
+
+
+[Event "Cross pin: Chapter 14"]
+[Site "https://lichess.org/study/BPLVlesH/38XQk3EP"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "2r1kr2/pR5p/2q5/3p4/Q3bP2/8/PP4PP/4R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 14"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/emTYBU87"]
+[FEN "2r1kr2/pR5p/2q5/3p4/Q3bP2/8/PP4PP/4R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Rc1 Qxa4 2. Rxc8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Cross pin: Chapter 15"]
+[Site "https://lichess.org/study/BPLVlesH/oJ54RT6k"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "2r3k1/5ppp/4p3/5q2/8/Pp1Q1P2/1P4PP/1K1R4 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 15"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/vMSSV0A8"]
+[FEN "2r3k1/5ppp/4p3/5q2/8/Pp1Q1P2/1P4PP/1K1R4 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Rd8 2. Qxf5 Rxd1# *
+
+
+[Event "Cross pin: Chapter 16"]
+[Site "https://lichess.org/study/BPLVlesH/Wd6pR8jW"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "rn6/kp3p1p/pq6/N1Q5/P7/7P/5PP1/3R2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 16"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/sQwxiW4J"]
+[FEN "rn6/kp3p1p/pq6/N1Q5/P7/7P/5PP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Rb1 Nd7 2. Qe3 *
+
+
+[Event "Cross pin: Chapter 17"]
+[Site "https://lichess.org/study/BPLVlesH/zVM57pkC"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "6k1/p1p2r2/1p1p1P1Q/3P4/2P5/5qr1/PP4RP/6RK w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 17"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/vSan5tyh"]
+[FEN "6k1/p1p2r2/1p1p1P1Q/3P4/2P5/5qr1/PP4RP/6RK w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qh3 (1. hxg3 Rh7) *
+
+
+[Event "Cross pin: Chapter 19"]
+[Site "https://lichess.org/study/BPLVlesH/0RP6IIyY"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "3Q4/5p1k/5Pp1/pB5q/P7/6P1/1r1R2KP/8 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 19"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/HbUUL2XJ"]
+[FEN "3Q4/5p1k/5Pp1/pB5q/P7/6P1/1r1R2KP/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1... Qd1 *
+
+
+[Event "Cross pin: Chapter 20"]
+[Site "https://lichess.org/study/BPLVlesH/OfSybR7U"]
+[Date "2024.04.10"]
+[Result "*"]
+[Annotator "https://lichess.org/@/neeraj-crejo"]
+[FEN "5q2/k4r1R/8/2p1Q3/8/2K5/8/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Cross Pin"]
+[ChapterName "Cross pin: Chapter 20"]
+[ChapterURL "https://lichess.org/study/3CRqfJuF/WPqLld22"]
+[FEN "5q2/k4r1R/8/2p1Q3/8/2K5/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2024.04.10"]
+[UTCTime "17:02:59"]
+
+1. Qf6 *
