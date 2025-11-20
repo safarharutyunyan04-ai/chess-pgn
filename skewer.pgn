@@ -1,0 +1,214 @@
+[Event "Skewers: Chapter 40"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 40"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/MdDMyyrn"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/8/8/3k2r1/8/8/8/R2K4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Ra5+ Kc6 2. Rxg5 *
+
+
+[Event "Skewers: King"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "King"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/isubymAa"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "6n1/2p4p/1p2k1p1/p7/3P4/2P3P1/1P3K1P/5B2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Bc4+ Kd7 2. Bxg8 Ke8 3. Bxh7 Kf8 4. Bxg6 *
+
+
+[Event "Skewers: Chapter 2"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 2"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/DpfxeYHu"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "6k1/6pp/2p5/1p2Bp2/2bP1P1q/2P2K2/6QP/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1... Bd5+ 2. Ke2 Bxg2 *
+
+
+[Event "Skewers: Chapter 3"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 3"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/LvR9m4UK"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "q4b2/8/3RpK1k/8/8/8/1Q6/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1... Bg7+ 2. Kf7 (2. Kxe6 Bxb2) 2... Bxb2 *
+
+
+[Event "Skewers: Chapter 4"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 4"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/QfKJHhxx"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4k2r/1p3pp1/pB2pn1p/8/8/1P4P1/P3PP1P/3R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Rd8+ Ke7 2. Rxh8 *
+
+
+[Event "Skewers: Chapter 5"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 5"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/gJrWd8Cz"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4rr2/pp1q2kp/5pp1/2pP1b2/2P2B2/1P6/P2Q2PP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Bh6+ Kh8 2. Bxf8 *
+
+
+[Event "Skewers: Chapter 6"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 6"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/g4eYDHRq"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1bq1b1r/pp4pp/2p2k2/3p4/4Q3/8/PPP2PPP/R1B1R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Qh4+ Kf5 2. Qxd8 *
+
+
+[Event "Skewers: Chapter 7"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 7"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/0lNXmiWP"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2r2b2/pppk2pp/3p2q1/8/7B/1B1P2Q1/PPP3PP/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Qh3+ Kc6 2. Qxc8 *
+
+
+[Event "Skewers: Chapter 8"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 8"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/omW02FmF"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "q7/p3r3/6b1/Np6/4k1pP/8/PQ6/K7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Qg2+ Kf4 2. Qxa8 *
+
+
+[Event "Skewers: Chapter 9"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 9"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/ui0NBWdb"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5r2/pQ1qk3/5p2/4b3/2B5/1P5R/P6P/7K w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Rh7+ *
+
+
+[Event "Skewers: Queen"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Queen"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/LVuWtdVp"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2kr4/pp2bp2/2p1b3/2q3rp/4B3/P1B2Q1P/1PP1RPP1/R5K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Bb4 Qb6 2. Bxe7 *
+
+
+[Event "Skewers: Chapter 16"]
+[Date "2025.11.20"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Skewers"]
+[ChapterName "Chapter 16"]
+[ChapterURL "https://lichess.org/study/eeckqWcW/EsJIRAUP"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r4rk1/ppp2ppp/8/b2q4/8/2PP1N2/PP4PP/R2QR2K w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.11.20"]
+[UTCTime "17:54:12"]
+
+1. Re5 Qd6 2. Rxa5 *
