@@ -1,0 +1,702 @@
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "3r2k1/1p5p/6p1/p2q1p2/P1Q5/1P5P/1P6/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/RT0nhPq1"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3r2k1/1p5p/6p1/p2q1p2/P1Q5/1P5P/1P6/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rd1 Qxc4 2. Rxd8+ Kg7 3. bxc4 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1bq4/1p4kp/3p1n2/5pB1/p1pQ4/8/1P4PP/4RRK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/5MRT9A0j"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1bq4/1p4kp/3p1n2/5pB1/p1pQ4/8/1P4PP/4RRK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Re8 Qxe8 2. Qxf6+ Kg8 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r4k1r/pp3ppp/1bppbq2/4n3/3pPB2/1B1P2Q1/PPPN2PP/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/HwKr9DAo"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r4k1r/pp3ppp/1bppbq2/4n3/3pPB2/1B1P2Q1/PPPN2PP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxe5 Qxe5 2. Qxe5 dxe5 3. Bxe6 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "5rk1/ppp1qn1p/3pB1pr/3Pp3/2P1Pn2/PPB5/1Q4RP/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/Kt9P3sBp"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5rk1/ppp1qn1p/3pB1pr/3Pp3/2P1Pn2/PPB5/1Q4RP/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxf4 exf4 2. Bh8 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "5r1k/4R3/p1pp4/3p1bQ1/3q1P2/7P/P2B2P1/7K w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/yEg2Vm1S"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "5r1k/4R3/p1pp4/3p1bQ1/3q1P2/7P/P2B2P1/7K w - - 0 1"]
+[SetUp "1"]
+
+1. Qh4+ Kg8 2. Qg3+ Kh8 3. Bc3 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1b1rk2/pp3ppQ/1np5/4q3/2B4N/4P3/PP3PP1/2R2K1R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/5gzQksUa"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1b1rk2/pp3ppQ/1np5/4q3/2B4N/4P3/PP3PP1/2R2K1R w - - 0 1"]
+[SetUp "1"]
+
+1. Qg8+ Kxg8 2. Ng6 Bh3 3. Rxh3 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "rn3b1r/pQpk2p1/2qnppB1/8/6PP/2N1B3/PPP2P2/2KR3R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/jl5Wrc1K"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "rn3b1r/pQpk2p1/2qnppB1/8/6PP/2N1B3/PPP2P2/2KR3R w - - 0 1"]
+[SetUp "1"]
+
+1. Be4 Qxb7 2. Bxb7 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "2rr2k1/1pbb1ppp/4p3/pP1nN3/P7/1B2P3/1B2KPPP/2R4R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/leomILWW"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2rr2k1/1pbb1ppp/4p3/pP1nN3/P7/1B2P3/1B2KPPP/2R4R w - - 0 1"]
+[SetUp "1"]
+
+1. Nxd7 Rxd7 2. Bxd5 exd5 3. b6 h5 4. Rxc7 Rcxc7 5. bxc7 Rxc7 6. Rc1 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "3q2kr/1p3pnp/p5rQ/3N1p2/3P4/6R1/PP3P1P/4R1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/jYf2gyFF"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3q2kr/1p3pnp/p5rQ/3N1p2/3P4/6R1/PP3P1P/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [%csl Gf6] }
+1. Ne7+ Qxe7 2. Rxe7 Rxh6 3. Re8# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r5k1/p3qppn/2p1b2p/1p1r4/3N4/1PP4P/1P3BP1/R2QR1K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/O5s9mZcS"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r5k1/p3qppn/2p1b2p/1p1r4/3N4/1PP4P/1P3BP1/R2QR1K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxc6 Qd6 2. Ne7+ Qxe7 3. Qxd5 Bxd5 4. Rxe7 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r4rk1/p2nqppp/Qpp5/3p4/3Pn3/2N1PN2/PP3PPP/2R2RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/t7KrZU6N"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r4rk1/p2nqppp/Qpp5/3p4/3Pn3/2N1PN2/PP3PPP/2R2RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qb7 Qe6 2. Nxe4 dxe4 3. Ng5 Qd5 4. Nxe4 Qxe4 5. Qxd7 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "3q1r1k/2r3np/p1p1P1b1/Pp1p1pN1/1P1Q1P2/3B3R/7P/6RK w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/l3MAgAiA"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3q1r1k/2r3np/p1p1P1b1/Pp1p1pN1/1P1Q1P2/3B3R/7P/6RK w - - 0 1"]
+[SetUp "1"]
+
+1. Nf7+ Rcxf7 2. exf7 Rxf7 3. Rxg6 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1r3k1/3R1p1p/p3p1qp/1p6/3R4/P1P3P1/1P3Q1P/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/YhPglMju"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1r3k1/3R1p1p/p3p1qp/1p6/3R4/P1P3P1/1P3Q1P/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rg4 Qxg4 2. Qxf7+ Kh8 3. Qxh7# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r5k1/pp1R2pp/2p5/4P3/1bP2P1P/1P2pPq1/P1Q1P3/5K1R w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/82auzEFL"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r5k1/pp1R2pp/2p5/4P3/1bP2P1P/1P2pPq1/P1Q1P3/5K1R w - - 0 1"]
+[SetUp "1"]
+
+1. Rxg7+ Kxg7 2. Rg1 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r3r3/5qpk/ppR2B1p/3p3P/n2P4/P2P2Q1/5PP1/2R3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/agXGkXYB"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r3r3/5qpk/ppR2B1p/3p3P/n2P4/P2P2Q1/5PP1/2R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bxg7 Qxg7 2. Rc7 Re7 3. Rxe7 Qxe7 4. Rc7 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r4r1k/p6p/1pq2bb1/n2pB3/2pP2Q1/2P3N1/PP4PP/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/sJxYCInQ"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r4r1k/p6p/1pq2bb1/n2pB3/2pP2Q1/2P3N1/PP4PP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxf6 Rxf6 2. Rf1 Rf8 3. Qg5 Kg7 4. Nh5+ *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1q1b1k1/p3bppp/N1p1pn2/1r6/4P3/P3B1P1/4QPBP/R1R3K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/hVNO0YhU"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1q1b1k1/p3bppp/N1p1pn2/1r6/4P3/P3B1P1/4QPBP/R1R3K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nc7 Qxc7 2. Qxb5 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1b1kb1r/1p3ppp/p1q1pn2/8/P1B5/8/1PPNQPPP/R1B2RK1 w kq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/Ebk7riqA"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1b1kb1r/1p3ppp/p1q1pn2/8/P1B5/8/1PPNQPPP/R1B2RK1 w kq - 0 1"]
+[SetUp "1"]
+
+1. Bb5 axb5 2. axb5 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "2kr1r2/p6p/5Pp1/2p5/1qp2Q1P/7R/PP6/1KR5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/2bMtWfeq"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2kr1r2/p6p/5Pp1/2p5/1qp2Q1P/7R/PP6/1KR5 w - - 0 1"]
+[SetUp "1"]
+
+1. Rb3 Rxf6 2. Qg4+ *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r2qkbnr/ppp1pppp/8/3Pn3/6b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/Gx1C2Zen"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r2qkbnr/ppp1pppp/8/3Pn3/6b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 Bxd1 2. Bb5+ c6 3. dxc6 a6 4. c7+ *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "8/1bpk2b1/1p2p3/1qn3N1/1p1pPP2/3P3B/1PPKQ2R/r2N4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/M5OPfFhK"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "8/1bpk2b1/1p2p3/1qn3N1/1p1pPP2/3P3B/1PPKQ2R/r2N4 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxe6 Nxe6 2. Bxe6+ Kxe6 3. Qg4+ Kf6 4. Rh7 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "4kb1r/1b3p1p/p1qp1np1/B1n1p3/2N1P3/1PN3PB/2P2P1P/3QR1K1 w k - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/nXyqhO9M"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4kb1r/1b3p1p/p1qp1np1/B1n1p3/2N1P3/1PN3PB/2P2P1P/3QR1K1 w k - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 dxe5 2. Qd8# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r2r1k2/pb2qp2/1n2p2p/1p3pN1/3p3P/1B1P2Q1/PPP3P1/4RRK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/rNQXnTyN"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r2r1k2/pb2qp2/1n2p2p/1p3pN1/3p3P/1B1P2Q1/PPP3P1/4RRK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxe6+ fxe6 2. Rxf5+ exf5 3. Qg8# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "Q1b3k1/pq3pp1/1pN1p2p/3n4/1P1PB2P/P7/5PP1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/le6YS3jl"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "Q1b3k1/pq3pp1/1pN1p2p/3n4/1P1PB2P/P7/5PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ne7+ Qxe7 2. Qxc8+ Qf8 3. Bh7+ Kxh7 4. Qxf8 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "6r1/p3r2k/2p1q1pp/1pPnNp1b/1P1P1P2/P5RQ/7P/1B4RK w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/mkFaUR9C"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "6r1/p3r2k/2p1q1pp/1pPnNp1b/1P1P1P2/P5RQ/7P/1B4RK w - - 0 1"]
+[SetUp "1"]
+
+1. Nxg6 Bxg6 2. Rxg6 Rxg6 3. Bxf5 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r2q1r2/pb2bpkp/1p2pnp1/nP2Q3/6N1/P2B2N1/1BP2PPP/R4RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/xDVtWxci"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r2q1r2/pb2bpkp/1p2pnp1/nP2Q3/6N1/P2B2N1/1BP2PPP/R4RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nh5+ gxh5 2. Qg5+ Kh8 3. Bxf6+ *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1b2rk1/2q1bppp/p3pn2/1pn3B1/8/P1N1PN2/BPQ2PPP/3RK2R w K - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/l7BY9p2e"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1b2rk1/2q1bppp/p3pn2/1pn3B1/8/P1N1PN2/BPQ2PPP/3RK2R w K - 0 1"]
+[SetUp "1"]
+
+1. Bxf6 gxf6 2. Bb1 f5 3. g4 Kh8 4. gxf5 exf5 5. Nd5 Qb7 6. Nxe7 Qxe7 7. Nd4 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "3b1k1r/pp4p1/1qn1bpQp/1B2p3/8/2N2N2/PPP2PPP/5RK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/oz0vQVf4"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3b1k1r/pp4p1/1qn1bpQp/1B2p3/8/2N2N2/PPP2PPP/5RK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 Nxe5 2. Qe8# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "1nb1rk2/p3q1pp/1n3p2/1p1p1N2/2pP1PQ1/1PP3P1/P5BP/R1B1rRK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/B7Hz4ZHJ"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1nb1rk2/p3q1pp/1n3p2/1p1p1N2/2pP1PQ1/1PP3P1/P5BP/R1B1rRK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Ba3 Qxa3 2. Qxg7# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "3qk2r/1pp1nppp/1p6/r7/8/5Q2/PP3PPP/R1B1R1K1 w k - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/tcW60Def"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "3qk2r/1pp1nppp/1p6/r7/8/5Q2/PP3PPP/R1B1R1K1 w k - 0 1"]
+[SetUp "1"]
+
+1. Bg5 Rxg5 2. Rad1 Qc8 3. Qe3 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "1q2kb1r/1r1n1ppp/2Qpp3/8/N7/8/1PP2PPP/R1BR2K1 w k - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/mChwPqGr"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "1q2kb1r/1r1n1ppp/2Qpp3/8/N7/8/1PP2PPP/R1BR2K1 w k - 0 1"]
+[SetUp "1"]
+
+1. Nc5 dxc5 2. Bf4 e5 3. Bxe5 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "4rrk1/p1p4p/1pnb3R/4p1P1/2PP1p2/5N2/PP1B4/2KR4 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/OAg9HU57"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4rrk1/p1p4p/1pnb3R/4p1P1/2PP1p2/5N2/PP1B4/2KR4 w - - 0 1"]
+[SetUp "1"]
+
+1. c5 bxc5 2. dxc5 Bxc5 3. Rxc6 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r2qkbnr/pp2pppp/3p4/3Pn3/4P1b1/5N2/PP3PPP/RNBQKB1R w KQkq - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/6SU1aQUW"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r2qkbnr/pp2pppp/3p4/3Pn3/4P1b1/5N2/PP3PPP/RNBQKB1R w KQkq - 0 1"]
+[SetUp "1"]
+
+1. Nxe5 Bxd1 2. Bb5+ Qd7 3. Bxd7+ Kd8 4. Nxf7+ Kxd7 5. Kxd1 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "4rkr1/1p1Rn1pp/p3p2B/4Qp2/8/8/PPq2PPP/3R2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/JmTKKDkt"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "4rkr1/1p1Rn1pp/p3p2B/4Qp2/8/8/PPq2PPP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Qf6# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "6rk/1p4q1/p3p3/3b4/4p3/1P2B2P/P4PP1/2QR2K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/hWNOSrri"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "6rk/1p4q1/p3p3/3b4/4p3/1P2B2P/P4PP1/2QR2K1 w - - 0 1"]
+[SetUp "1"]
+
+1. Bd4 e5 2. Bxe5 Qxe5 3. Qh6# *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "r1bq1rk1/pp2bp1p/2p2np1/3p2B1/3P4/2NQ2N1/PPP2PPP/4RRK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/uGZUK9QB"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "r1bq1rk1/pp2bp1p/2p2np1/3p2B1/3P4/2NQ2N1/PPP2PPP/4RRK1 w - - 0 1"]
+[SetUp "1"]
+
+1. Rxe7 Qxe7 2. Qf3 *
+
+
+[Event "White to move & win"]
+[Date "1998.??.??"]
+[White "1001 Winning Chess Sacrifices"]
+[Black "and Combinations"]
+[Result "*"]
+[FEN "2q2b2/5k2/4bP1r/2pB1Q1p/pp6/8/PPP3PP/2K2R2 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "sacrifice"]
+[ChapterName "1001 Winning Chess Sacrifices - and Combinations"]
+[ChapterURL "https://lichess.org/study/sXJ37Yve/ibyFUqfm"]
+[Annotator "https://lichess.org/@/Safar_Harutyunyan"]
+[FEN "2q2b2/5k2/4bP1r/2pB1Q1p/pp6/8/PPP3PP/2K2R2 w - - 0 1"]
+[SetUp "1"]
+
+1. Re1 Rxf6 2. Bxe6+ Qxe6 3. Qh7+ Ke8 4. Rxe6+ *
