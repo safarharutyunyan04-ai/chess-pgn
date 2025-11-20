@@ -1,0 +1,379 @@
+[Event "Overloading tactic-homework: Chapter 1"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "rr5k/3bq2p/3p2pP/4pnN1/pRP5/3P2P1/3Q1P2/3B1RK1 b - - 0 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 1"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/qf97De3d"]
+[FEN "rr5k/3bq2p/3p2pP/4pnN1/pRP5/3P2P1/3Q1P2/3B1RK1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Rxb4 2. Qxb4 Qxg5 *
+
+
+[Event "Overloading tactic-homework: Chapter 2"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "8/5k2/1p2pn1p/p1b2pp1/2P2P1q/4BBQP/PP3P2/5K2 b - - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 2"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/ZOsYGFCe"]
+[FEN "8/5k2/1p2pn1p/p1b2pp1/2P2P1q/4BBQP/PP3P2/5K2 b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Qxg3 (1... Bxe3 { White plays Qxh4 and then when you play Qxh4 black recaptures your e3 bishop }) 2. fxg3 Bxe3 *
+
+
+[Event "Overloading tactic-homework: Chapter 3"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "r1bq2k1/pp3p1p/4r1p1/3p4/3N1n2/2PB3P/PP3PP1/R2QR1K1 b - - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 3"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/P5bdiwWj"]
+[FEN "r1bq2k1/pp3p1p/4r1p1/3p4/3N1n2/2PB3P/PP3PP1/R2QR1K1 b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Rxe1+ 2. Qxe1 Nxd3 *
+
+
+[Event "Overloading tactic-homework: Chapter 4"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "2rq1rk1/1p1bppbp/3p1npB/p7/P2NP3/1PN2P2/2PQ2PP/1K1R3R b - - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 4"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/lU3J50yT"]
+[FEN "2rq1rk1/1p1bppbp/3p1npB/p7/P2NP3/1PN2P2/2PQ2PP/1K1R3R b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Bxh6 2. Qxh6 Rxc3 *
+
+
+[Event "Overloading tactic-homework: Chapter 5"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "4r2k/6p1/2Q4p/5R2/2p1r3/7P/1q4P1/5R1K w - - 0 34"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 5"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/sA1jymtV"]
+[FEN "4r2k/6p1/2Q4p/5R2/2p1r3/7P/1q4P1/5R1K w - - 0 34"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+{ The rook on e8 is guarding the rook on e4 and the back rank }
+34. Rf8+ Rxf8 35. Rxf8+ Kh7 36. Qxe4+ *
+
+
+[Event "Overloading tactic-homework: Chapter 6"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "r4rk1/1b1nbpp1/1qp1pn1p/1p2N1B1/p2P3P/2N1PB2/PPQ2PP1/2KR3R w - - 1 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 6"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/Ju3DLt2l"]
+[FEN "r4rk1/1b1nbpp1/1qp1pn1p/1p2N1B1/p2P3P/2N1PB2/PPQ2PP1/2KR3R w - - 1 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Nxd7 Nxd7 3. Bxe7 *
+
+
+[Event "Overloading tactic-homework: Chapter 7"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "5r1k/p5bp/2NQ1np1/1q1P4/1p1B1P2/3b4/PPp3PP/4R2K w - - 0 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 7"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/EQEra1H5"]
+[FEN "5r1k/p5bp/2NQ1np1/1q1P4/1p1B1P2/3b4/PPp3PP/4R2K w - - 0 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Bxf6 Rxf6 3. Re8+ Rf8 4. Rxf8+ Bxf8 5. Qxf8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Overloading tactic-homework: Chapter 8"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "r4rk1/p4ppp/1p6/2b1Pn2/2p2B1q/1P3Q2/P1P1BPPP/R4RK1 b - - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 8"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/jXjwHwrh"]
+[FEN "r4rk1/p4ppp/1p6/2b1Pn2/2p2B1q/1P3Q2/P1P1BPPP/R4RK1 b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Nd4 2. Qg4 Nxe2+ 3. Qxe2 Qxf4 *
+
+
+[Event "Overloading tactic-homework: Chapter 9"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "2r1r1k1/pp1q1p1p/n2p1bp1/1QpP4/8/P1N2P2/1PP1N1PP/R4RK1 b - - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 9"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/O6vIbXqK"]
+[FEN "2r1r1k1/pp1q1p1p/n2p1bp1/1QpP4/8/P1N2P2/1PP1N1PP/R4RK1 b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Qxb5 2. Nxb5 Rxe2 *
+
+
+[Event "Overloading tactic-homework: Chapter 10"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "1r4k1/1b3pbp/6p1/1p1qPpN1/1P6/P2rB2P/4Q1P1/R3R1K1 b - - 0 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 10"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/U2crVyzA"]
+[FEN "1r4k1/1b3pbp/6p1/1p1qPpN1/1P6/P2rB2P/4Q1P1/R3R1K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Rxe3 2. Qxe3 Qxg2# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Overloading tactic-homework: Chapter 11"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "5bk1/3b2pp/1N1p4/4n3/1p1Nq3/1P1nB1PP/4Q3/5BK1 w - - 0 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 11"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/6pDlDPmL"]
+[FEN "5bk1/3b2pp/1N1p4/4n3/1p1Nq3/1P1nB1PP/4Q3/5BK1 w - - 0 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Nxd7 Nxd7 3. Qxd3 Qxd3 4. Bxd3 *
+
+
+[Event "Overloading tactic-homework: Chapter 12"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "r3kb1r/pppq1pp1/3p3p/3Pp3/1Pn1n3/B7/P1PN1PPP/RN1Q1RK1 b kq - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 12"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/kWgdnzf8"]
+[FEN "r3kb1r/pppq1pp1/3p3p/3Pp3/1Pn1n3/B7/P1PN1PPP/RN1Q1RK1 b kq - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Nexd2 2. Nxd2 Nxa3 *
+
+
+[Event "Overloading tactic-homework: Chapter 13"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "3r2k1/pppq1ppp/8/4Rb2/2B2Q2/8/PPP2PPP/2K5 w - - 1 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 13"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/5R54P60J"]
+[FEN "3r2k1/pppq1ppp/8/4Rb2/2B2Q2/8/PPP2PPP/2K5 w - - 1 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Rd5 Qe7 3. Rxd8+ Qxd8 4. Qxf5 *
+
+
+[Event "Overloading tactic-homework: Chapter 14"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "r1b2r1k/3nb1pp/p1npB3/qp1N2P1/4P3/4BP2/PPPQ3P/R3K2R w KQ - 1 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 14"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/jWejLGtV"]
+[FEN "r1b2r1k/3nb1pp/p1npB3/qp1N2P1/4P3/4BP2/PPPQ3P/R3K2R w KQ - 1 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Qxa5 Nxa5 3. Nxe7 *
+
+
+[Event "Overloading tactic-homework: Chapter 15"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "2r3k1/p4p1p/2bprBp1/8/5QP1/1P3P2/P1PRq2P/1K5R b - - 1 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 15"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/6hKLSPPm"]
+[FEN "2r3k1/p4p1p/2bprBp1/8/5QP1/1P3P2/P1PRq2P/1K5R b - - 1 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Rxf6 2. Qxf6 Qxd2 *
+
+
+[Event "Overloading tactic-homework: Chapter 16"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "8/pp2p1r1/4knN1/2prpRR1/7P/8/PPK2PP1/8 b - - 0 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 16"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/Cb5G73BT"]
+[FEN "8/pp2p1r1/4knN1/2prpRR1/7P/8/PPK2PP1/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Rxg6 2. Rxg6 Kxf5 *
+
+
+[Event "Overloading tactic-homework: Chapter 17"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "rn1q1rk1/pp2bppp/8/3p2B1/2p1n3/2N2QP1/PP3PBP/R4RK1 w - - 1 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 17"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/Efh5FDYv"]
+[FEN "rn1q1rk1/pp2bppp/8/3p2B1/2p1n3/2N2QP1/PP3PBP/R4RK1 w - - 1 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Bxe7 Qxe7 3. Nxd5 Qe5 4. Qxe4 Qxe4 5. Bxe4 *
+
+
+[Event "Overloading tactic-homework: Chapter 18"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "Rr6/5pk1/4pn2/1qNp3p/3P4/3bPB2/5P1P/Q5K1 w - - 1 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 18"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/CMxkfVFN"]
+[FEN "Rr6/5pk1/4pn2/1qNp3p/3P4/3bPB2/5P1P/Q5K1 w - - 1 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Rxb8 Qxb8 3. Nxd3 *
+
+
+[Event "Overloading tactic-homework: Chapter 19"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "7r/r1p1nkb1/1pn2p2/p2q4/3PR1Q1/PN4B1/1PP2PP1/4R1K1 w - - 1 2"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 19"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/bTw33Gm3"]
+[FEN "7r/r1p1nkb1/1pn2p2/p2q4/3PR1Q1/PN4B1/1PP2PP1/4R1K1 w - - 1 2"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+2. Rxe7+ Nxe7 3. Rxe7+ Kxe7 4. Qxg7+ *
+
+
+[Event "Overloading tactic-homework: Chapter 20"]
+[Date "2025.05.01"]
+[Result "*"]
+[Variant "Standard"]
+[Annotator "https://lichess.org/@/VentureChess_Academy"]
+[FEN "2r3k1/1rn1pp1p/q2p1bp1/3P4/2P1PB2/2N4P/P1QR2PK/1R6 b - - 0 1"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Overloading Tactic"]
+[ChapterName "Overloading tactic-homework: Chapter 20"]
+[ChapterURL "https://lichess.org/study/3rzw7N6G/sqr1nCVo"]
+[FEN "2r3k1/1rn1pp1p/q2p1bp1/3P4/2P1PB2/2N4P/P1QR2PK/1R6 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.05.01"]
+[UTCTime "04:57:42"]
+
+1... Bxc3 2. Rxb7 Bxd2 3. Bxd2 Qxb7 *
