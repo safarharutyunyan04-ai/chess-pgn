@@ -288,3 +288,26 @@
 [UTCTime "01:25:21"]
 
 1. Qg6 fxg6 2. Nxg6+ hxg6 3. Rh3+ *
+
+[Event "Remove the Defender: Remove the Defender 11"]
+[Site "https://lichess.org/study/ZRy7a8oF/EzaOrpch"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "4rrk1/2p2ppp/p2b4/1p1P4/3P2nq/2P4P/PPQ1RPP1/RNB3K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 11"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/Xgjj4VRQ"]
+[FEN "4rrk1/2p2ppp/p2b4/1p1P4/3P2nq/2P4P/PPQ1RPP1/RNB3K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Janowski vs Tornerup, 1947
+
+Black to Move }
+1... Qxf2+ 2. Rxf2  Re1+ 3. Rf1 Bh2+ 4. Kh1 Rxf1# { 0-1 Black wins by checkmate. } *
+
