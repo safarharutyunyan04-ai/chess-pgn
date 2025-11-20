@@ -1,0 +1,347 @@
+[Event "Defelection: Chapter 1"]
+[Date "????.??.??"]
+[White "Intro"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "2r3k1/1q3ppp/8/8/2b3Q1/5N1P/5PP1/4R1K1 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Chapter 1"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/AXFRF3Lw"]
+[FEN "2r3k1/1q3ppp/8/8/2b3Q1/5N1P/5PP1/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qxc4 { As the name suggests, a deflection tactic occurs when a piece
+is forced away from an important duty that it’s performing. } 1... Rxc4 2. Re8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Defelection: Defelcting the Piece Defender - Position 1"]
+[Date "????.??.??"]
+[White "Defelcting the Piece Defender"]
+[Black "Position 1"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "6k1/5pp1/5n1p/3q4/8/3Q4/6PP/4R1K1 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Defelcting the Piece Defender - Position 1"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/JuaPiLo6"]
+[FEN "6k1/5pp1/5n1p/3q4/8/3Q4/6PP/4R1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Re8+ Nxe8 2. Qxd5 *
+
+
+[Event "Defelection: Defelcting the Piece Defender - Position 4"]
+[Date "????.??.??"]
+[White "Defelcting the Piece Defender"]
+[Black "Position 4"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "3n2k1/6bp/6p1/2Q5/3q4/8/6PP/5R1K w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Defelcting the Piece Defender - Position 4"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/R4x0gsiA"]
+[FEN "3n2k1/6bp/6p1/2Q5/3q4/8/6PP/5R1K w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rf8+ Bxf8 2. Qxd4 *
+
+
+[Event "Defelection: Defelcting the Square Defender - Position 1"]
+[Date "????.??.??"]
+[White "Defelcting the Square Defender"]
+[Black "Position 1"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "1rnq1k2/6pp/8/N1pp2N1/3n3P/8/5PP1/R4QK1 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Defelcting the Square Defender - Position 1"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/w9i11xIL"]
+[FEN "1rnq1k2/6pp/8/N1pp2N1/3n3P/8/5PP1/R4QK1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Nc6 Nxc6 2. Ne6+ *
+
+
+[Event "Defelection: Defelcting the Square Defender - Position 3"]
+[Date "????.??.??"]
+[White "Defelcting the Square Defender"]
+[Black "Position 3"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "r4rk1/pp2bpp1/q1p3p1/2n5/8/PB2N2R/1P4PP/2R1Q2K w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Defelcting the Square Defender - Position 3"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/q3y2kKKu"]
+[FEN "r4rk1/pp2bpp1/q1p3p1/2n5/8/PB2N2R/1P4PP/2R1Q2K w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rxc5 Bxc5 2. Qh4 { [%csl Gh8][%cal Gh4h8] } *
+
+
+[Event "Defelection: Deflecting the Important Piece - Position 1"]
+[Date "????.??.??"]
+[White "Deflecting the Important Piece"]
+[Black "Position 1"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "1k5r/pppn1Q2/3b4/8/6q1/2P5/PP2B1PP/R5NK w - - 0 2"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Deflecting the Important Piece - Position 1"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/5DhvN7DJ"]
+[FEN "1k5r/pppn1Q2/3b4/8/6q1/2P5/PP2B1PP/R5NK w - - 0 2"]
+[SetUp "1"]
+
+{ [#] }
+2. Qe8+ Rxe8 3. Bxg4 Rh8 4. Nf3 { [%csl Gh2] } *
+
+
+[Event "Defelection: Deflecting the Important Piece - Position 3"]
+[Date "????.??.??"]
+[White "Deflecting the Important Piece"]
+[Black "Position 3"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "4k2r/5ppp/8/2b2q2/2N5/4N3/6PP/3Q2K1 w k - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Deflecting the Important Piece - Position 3"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/wD2PDeXV"]
+[FEN "4k2r/5ppp/8/2b2q2/2N5/4N3/6PP/3Q2K1 w k - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Nd6+ Bxd6 2. Nxf5 *
+
+
+[Event "Defelection: Deflection in the Endgames - Position 1"]
+[Date "????.??.??"]
+[White "Deflection in the Endgames"]
+[Black "Position 1"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "8/8/P4k2/8/3b4/8/3B2K1/8 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Deflection in the Endgames - Position 1"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/dOKlNMxK"]
+[FEN "8/8/P4k2/8/3b4/8/3B2K1/8 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bc3 Bxc3 2. a7 *
+
+
+
+[Event "Defelection: Deflecting in the Endgames - Position 3"]
+[Date "????.??.??"]
+[White "Deflecting in the Endgames"]
+[Black "Position 3"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "8/4n3/8/8/P2P4/8/8/K1k5 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Deflecting in the Endgames - Position 3"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/gzaNaLyt"]
+[FEN "8/4n3/8/8/P2P4/8/8/K1k5 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. a5 Nd5 2. a6 Nb6 3. a7 Kc2 4. d5 Kb3 5. d6 Kb4 6. d7 *
+
+
+[Event "Defelection: Deflection in the Endgames - Position 4"]
+[Date "????.??.??"]
+[White "Deflection in the Endgames"]
+[Black "Position 4"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "8/6pp/8/P1kP4/8/8/8/6K1 w - - 0 2"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Deflection in the Endgames - Position 4"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/RqKOlg8e"]
+[FEN "8/6pp/8/P1kP4/8/8/8/6K1 w - - 0 2"]
+[SetUp "1"]
+
+{ [#] }
+2. a6 Kb6 3. d6 Kxa6 4. d7 *
+
+
+
+
+[Event "Defelection: Tactics with Deflection - Position 2"]
+[Date "????.??.??"]
+[White "Tactics with Deflection"]
+[Black "Position 2"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "5k2/1qr1bppp/4n3/1Br2N2/8/7P/3RQPP1/3R2K1 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Tactics with Deflection - Position 2"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/eQ6aahRH"]
+[FEN "5k2/1qr1bppp/4n3/1Br2N2/8/7P/3RQPP1/3R2K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Rd8+ Nxd8 2. Rxd8+ Bxd8 3. Qe8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Defelection: Tactics with Deflection - Position 3"]
+[Date "????.??.??"]
+[White "Tactics with Deflection"]
+[Black "Position 3"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "5rk1/6pp/2b5/2qp1N2/1p4n1/1P4P1/4P1BP/3Q1R1K w - - 0 27"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Tactics with Deflection - Position 3"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/LgLGtKdw"]
+[FEN "5rk1/6pp/2b5/2qp1N2/1p4n1/1P4P1/4P1BP/3Q1R1K w - - 0 27"]
+[SetUp "1"]
+
+{ [#] }
+27. Qd4 { [%csl Gd6,Ge7][%cal Gc5d6,Gd6e7,Gf5d6,Gf5e7] } 27... Qxd4 28. Ne7+ Kh8 29. Rxf8# { 1-0 White wins by checkmate. } *
+
+
+
+[Event "Defelection: Tactics with Deflection - Position 7"]
+[Date "????.??.??"]
+[White "Tactics with Deflection"]
+[Black "Position 7"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "3q2rk/5Q1p/3b1p1B/3p1P2/2nP4/4R3/6PP/7K w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Tactics with Deflection - Position 7"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/9usTrj2G"]
+[FEN "3q2rk/5Q1p/3b1p1B/3p1P2/2nP4/4R3/6PP/7K w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Re8 Qxe8 2. Qxf6+ Rg7 3. Qxg7# { 1-0 White wins by checkmate. } *
+
+
+
+
+[Event "Defelection: Test - Position 1"]
+[Date "????.??.??"]
+[White "Test"]
+[Black "Position 1"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "8/6Q1/R3p1pp/3p1q1k/3P1PR1/6PK/2r4P/1r6 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Test - Position 1"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/EVBcT9uJ"]
+[FEN "8/6Q1/R3p1pp/3p1q1k/3P1PR1/6PK/2r4P/1r6 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Qxg6+ Qxg6 2. Rh4# { 1-0 White wins by checkmate. } *
+
+
+[Event "Defelection: Test - Position 2"]
+[Date "????.??.??"]
+[White "Test"]
+[Black "Position 2"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "6rk/1p4q1/p7/3bp3/3Bp3/1P5P/P4PP1/2QR2K1 w - - 0 2"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Test - Position 2"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/TuNWkm5V"]
+[FEN "6rk/1p4q1/p7/3bp3/3Bp3/1P5P/P4PP1/2QR2K1 w - - 0 2"]
+[SetUp "1"]
+
+{ [#] }
+2. Bxe5 Qxe5 3. Qh6# { 1-0 White wins by checkmate. } *
+
+
+
+
+[Event "Defelection: Test - Position 4"]
+[Date "????.??.??"]
+[White "Test"]
+[Black "Position 4"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "r3nq1k/p5p1/1p5p/4p3/4b2N/P3P2P/BP4P1/2R1Q1K1 w - - 0 1"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Test - Position 4"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/1YlaxvHO"]
+[FEN "r3nq1k/p5p1/1p5p/4p3/4b2N/P3P2P/BP4P1/2R1Q1K1 w - - 0 1"]
+[SetUp "1"]
+
+{ [#] }
+1. Bd5 Bxd5 2. Ng6+ *
+
+
+
+[Event "Defelection: Test - Position 6"]
+[Date "????.??.??"]
+[White "Test"]
+[Black "Position 6"]
+[Result "*"]
+[Annotator "ChessMood"]
+[FEN "8/p1p5/6Rp/Q3p3/4q1Pk/8/PP2r1PK/8 w - - 0 2"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Defelection"]
+[ChapterName "Test - Position 6"]
+[ChapterURL "https://lichess.org/study/xEAqa7AF/nk02xUkp"]
+[FEN "8/p1p5/6Rp/Q3p3/4q1Pk/8/PP2r1PK/8 w - - 0 2"]
+[SetUp "1"]
+
+{ [#] }
+2. Qe1+ Rxe1 3. g3# { 1-0 White wins by checkmate. } *
