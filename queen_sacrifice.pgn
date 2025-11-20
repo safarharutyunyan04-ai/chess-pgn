@@ -1,0 +1,290 @@
+[Event "Queen Sacrifice: Queen Sacrifice Capture + Mate example (79)"]
+[Date "2023.10.31"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Capture + Mate example (79)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/wNe6gTz7"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "2Q2n2/2R4p/3qpp1k/1p6/3P3P/3B2P1/5PK1/r7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.10.31"]
+[UTCTime "23:30:28"]
+
+1. Qxf8+ Qxf8 2. Rxh7# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Capture + Mate example (81)"]
+[Date "2023.10.31"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Capture + Mate example (81)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/JcJhvzib"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r3r2k/p1q3pp/2p3n1/1p2Pp2/5P2/1BP3Q1/P5PP/R4R1K w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.10.31"]
+[UTCTime "23:50:37"]
+
+1. Qxg6 hxg6 2. Rf3 g5 Rh3# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Capture + Mate example (72)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Capture + Mate example (72)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/Nrbw0H8v"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "3r2k1/p2r1pp1/1pQ3p1/3P2q1/P7/6P1/5P1P/2R1R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:28:03"]
+
+1. Qxd7 Rxd7 2. Re8+ Kh7 3. Rcc8 *
+
+
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Capture + Mate (84)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Capture + Mate (84)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/SejmaOnH"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r2r3k/p5pp/4R3/2q2p1Q/1nBR4/1P2P3/5PPP/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:23:01"]
+
+1. Qxh7+ Kxh7 2. Rh4+ Kg8 3. Re8# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Luring + Mate example (74)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Luring + Mate example (74)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/A2AbMOnJ"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "1r4rk/q1p4p/1p1p1PpQ/2nPp3/2P1P3/2N2P2/Pp6/1K1R1BR1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:33:11"]
+
+1. Qxh7+ Kxh7 2. Rh1# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice  Luring + Mate example (69)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice  Luring + Mate example (69)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/2WXufn9o"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "3r2k1/4R1p1/ppq2pQp/8/8/1P4P1/PB3P1P/3b2K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:46:14"]
+
+1... Qh1+ 2. Kxh1 Bf3+ { [%cal Gf3h1] } 3. Kg1 Rd1+ *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice  Luring + Mate example (88)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice  Luring + Mate example (88)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/59Pxxbme"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r1kq1bnr/pp4pp/2nPp3/4N3/2Q2p2/8/PPPP2PP/R1B1KB1R w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:52:03"]
+
+{ [%cal Ge5d7,Gd6c7] }
+1. Qxc6+ bxc6 2. Ba6+ { [%cal Ga6c8] } 2... Kb8 3. Nxc6# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice  Luring + Mate (85)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice  Luring + Mate (85)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/xwpLjFJ0"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "2kr3r/pp3pp1/2n5/7p/Q1B2Bn1/1NP2pPq/P4PbP/3RR1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:53:32"]
+
+1. Qxc6+ bxc6 2. Ba6# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice  Luring + Mate (78)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice  Luring + Mate (78)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/NmrzgEjF"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r3nrk1/pp3p1p/2b2BpQ/q1p1P3/6P1/3BP1R1/P3KP1P/q7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:55:53"]
+
+1. Qxh7+ Kxh7 2. Rh3+ Kg8 3. Rh8# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice  Luring + Mate (93)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice  Luring + Mate (93)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/fxKMhyP1"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r1b1qN1k/1pp3p1/p2p3n/4p1B1/8/1BP4Q/PP4PP/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "00:58:46"]
+
+1. Qxh6+ gxh6 2. Bf6# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Threaten mate + Mate example (89)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Threaten mate + Mate example (89)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/avuxY0hK"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r1b1qrk1/2pp1ppp/pb1n1Bn1/1p6/3PPQN1/1BP5/PP1N1PPP/5RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:03:22"]
+
+1. Qh6 gxh6 2. Nxh6# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Threaten mate + Mate example (91)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Threaten mate + Mate example (91)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/3j9M7gfL"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r3k2r/pp2n1b1/3p2p1/q1pPpbPp/1nP4P/P1N1Q3/1P1B1P2/2KR1BNR b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:08:06"]
+
+1... Qa4 { [%cal Ga4c2,Gf5c2] } 2. Nxa4 { [%cal Gf5b1] } 2... Na2# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Threaten mate + Mate example (87)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Threaten mate + Mate example (87)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/fhJJ7kFF"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "6k1/1p5p/p1p3q1/6BP/2nPr1Q1/8/PP3R1K/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:11:31"]
+
+{ [%csl Gg7][%cal Gf2f8] }
+1. Bh6 { [%cal Gf2f8,Gh6f8] } 1... Qxg4 2. Rf8# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Threaten mate + Mate (67)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Threaten mate + Mate (67)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/2Ly5uroO"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "r4rk1/ppp2pp1/7p/3P4/2P1Nnq1/P4bB1/1PP2PPP/RN2QRK1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:19:12"]
+
+1... Qh3 2. gxh3 Nxh3# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Threaten mate + Mate (66)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Threaten mate + Mate (66)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/Eeq85qe0"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "7k/1p4pp/P7/2b5/P4n1N/1Q3P1q/R4P1P/4r1RK b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:22:23"]
+
+1... Qf1 2. Rxf1 Rxf1# *
+
+
+[Event "Queen Sacrifice: Queen Sacrifice Threaten mate + Mate (73)"]
+[Date "2023.11.01"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Queen Sacrifice"]
+[ChapterName "Queen Sacrifice Threaten mate + Mate (73)"]
+[ChapterURL "https://lichess.org/study/beIlXzTv/g0obZT6s"]
+[Annotator "https://lichess.org/@/Mr_jarvis22"]
+[FEN "rn1q1r1k/p2pNppp/bp1Q4/2p1PN2/2B5/P1R5/5PPP/5RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2023.11.01"]
+[UTCTime "01:25:21"]
+
+1. Qg6 fxg6 2. Nxg6+ hxg6 3. Rh3+ *
