@@ -205,30 +205,6 @@ Black to Move }
 1... Qxh2+ 2. Kxh2 Rh4+ 3. Kg1 Ng3 4. Be3 Rh1# { 0-1 Black wins by checkmate. } *
 
 
-[Event "Remove the Defender: Remove the Defender 10"]
-[Site "https://lichess.org/study/ZRy7a8oF/brdknIRp"]
-[Date "2025.09.02"]
-[Result "*"]
-[Annotator "https://lichess.org/@/Rawnsdale"]
-[FEN "2r5/1kN1r1bp/1Pnnpq2/3p1p2/8/PP2B1PP/K1Q2PB1/3R2R1 b - - 0 1"]
-[Variant "From Position"]
-[ECO "?"]
-[Opening "?"]
-[StudyName "Removing defender"]
-[ChapterName "Remove the Defender: Remove the Defender 10"]
-[ChapterURL "https://lichess.org/study/LI65f8qp/Ci25Jhd0"]
-[FEN "2r5/1kN1r1bp/1Pnnpq2/3p1p2/8/PP2B1PP/K1Q2PB1/3R2R1 b - - 0 1"]
-[SetUp "1"]
-[UTCDate "2025.09.02"]
-[UTCTime "09:07:44"]
-
-{ Meister vs Brynell, 1990
-
-Black to Move }
-1... Nb4+ 2. axb4 Rexc7 3. bxc7 Ra8+ 4. Kb1 Qa1# (4... Ra1#) { 0-1 Black wins by checkmate. }*
-
-
-
 [Event "Remove the Defender: Remove the Defender 12"]
 [Site "https://lichess.org/study/ZRy7a8oF/nEmL5pF4"]
 [Date "2025.09.02"]
