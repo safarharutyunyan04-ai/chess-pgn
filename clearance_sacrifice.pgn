@@ -1,0 +1,334 @@
+[Event "Line Clearance: Line Clearance Theory"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Theory"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/twcF0UmG"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "k1q1bbrr/1p3pp1/p7/5n1n/PP2N2p/1NP5/1BB1Q1PP/2R2R1K b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:47:25"]
+
+{ Clearance of ranks are very rare, and since most of the attacks in a chess game are frontal attacks on the files. In this position Black is about to sacrifice all his pieces for checkmate. Take a look: }
+1... Bb5 { [%cal Ga8h8] } 2. axb5 Nhg3+ { [%cal Gg3h1,Gg3e2] } 3. hxg3 hxg3+ { [%cal Gh8h1] } 4. Kg1 { [%csl Gh1][%cal Gh8h1] } 4... Rh1+ 5. Kxh1 Rh8+ 6. Kg1 { [%cal Gc8h8] } 6... Bc5+ { [%cal Gc8h8,Gh8h1] } (6... Rh1+ 7. Kxh1) 7. Nbxc5 Rh1+ 8. Kxh1 Qh8+ 9. Kg1 Qh2# { [%cal Gg3h2,Gg3f2] } *
+
+
+[Event "Line Clearance: Line Clearance Theory"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Theory"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/CxaGGm4B"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "r4r1k/pQ4Rp/3B4/4Nb2/8/6K1/P5PP/3q4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:53:40"]
+
+{ [%cal Ga1h8] }
+1. Ng6+ (1. Nf7+) 1... Bxg6 2. Rxh7+ { [%cal Gd6e5,Ga1h8] } 2... Bxh7 3. Be5+ { [%cal Ge5h8,Ge5a1] } 3... Kg8 4. Qg7# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/Huw8UGup"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "rnb2rk1/ppq1b1p1/2p4p/4p1N1/2P1B3/6P1/PPQ2P1P/R1B2RK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:41:22"]
+
+{ White to move. Find the clearance move. } { [%csl Gh7][%cal Gc2h7] }
+1. Bd5+ cxd5 2. Qh7# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/9dzopnpr"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "rnb1k1nr/1pB1ppbp/p3q1p1/3NN3/1P6/8/P1P1BPPP/R2QK2R w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:39:23"]
+
+{ White to move. Find the clearance move. }
+1. Nf6+ Bxf6 2. Qd8# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/CGeMYDar"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "1r1qr1k1/1pp2pb1/p2pbnp1/6B1/2PQP3/2N2P2/PP4P1/2KR1B1R w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:56:19"]
+
+{ White to move. Find the line clerance move. }
+1. e5 dxe5 2. Qh4 Qe7 3. Ne4 { [%csl Ge4,Gf6][%cal Ge4f6] } (3. Bxf6 Bxf6 { [%csl Gf6] } 4. Qh7+ Kf8 { [%csl Gh8][%cal Gf6h8] }) 3... Nxe4 4. Bxe7 { [%csl Ge7] } *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/JlgSDMwT"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "4r1k1/p5pp/1br5/q3p1P1/4P2P/2p2Q1B/PPP5/1K3R2 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:43:43"]
+
+{ Sometimes we clear our lines for defensive reasons as well. Black to move. Find the clearance move to stop White's deadly mating threat. } { [%csl Gf2][%cal Gb6f2] }
+1... Bf2 (1... Rc7 2. Be6+ Rxe6 3. Qf8# { [%csl Gf8,Gg8] }) 2. Rxf2 Qc7 { [%csl Gf7,Gf6,Gf8][%cal Gc7g7,Gc6f6,Ge8f8] } *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.12"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/ovvZUd2U"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "1k1r3r/p1p2ppp/Qpnq4/3p1n2/1P1P4/2PNB2P/P4PP1/R3K2R w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.12"]
+[UTCTime "19:58:39"]
+
+{ White to move. Find the line clearance move. } { [%csl Gb8][%cal Gb1b8] }
+1. Bf4 (1. Nc5 bxc5 { [%csl Gc4] } 2. bxc5 Qd7 { [%csl Gb8][%cal Ga1b1,Gb1b8,Gb8a8] } 3. Rb1+ Ka8 4. Qb7#) 1... Qf6 { [%csl Gf6] } *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/rrGEHu4Q"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "6k1/R5p1/1p5p/8/3rN3/5PPb/PPr4P/4R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:10:27"]
+
+{ White to move. Find the clearance move }
+1. Nf6+ gxf6 2. Re8# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/ByOtGGul"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "r5kr/1pp1b2p/p1n3pB/3q1bN1/3PN3/8/PPP1QPPP/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:11:48"]
+
+{ White to move. Find the line clearance move }
+1. Nf6+ Bxf6 2. Qe8+ Rxe8 3. Rxe8# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/HPQgExXl"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "4r1k1/1pq2p2/p2p1P2/2pP1Bp1/2P2R1p/P6P/1P1Qr1PK/2R5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:13:10"]
+
+{ White to move. Find the line clearance move } { [%cal Ge2d2] }
+1. Re4 Rxd2 (1... R2xe4 2. Qxg5+ { [%csl Gg5] } 2... Kf8 3. Qg7#) 2. Rxe8# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/IqX0kvi9"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "2r2r1k/4ppRp/p4n1P/6R1/2q1pP2/8/PpN5/1K4Q1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:14:11"]
+
+1. Rg8+ (1. Rxh7+ Kxh7 2. Rg7+ Kh8 3. Rh7+ Nxh7 4. Qg7#) 1... Rxg8 2. Rxg8+ Rxg8 *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/T1TJfHut"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "2r2rk1/p1q1bpp1/bpp1pn1p/8/BP1PP3/P1Q2P2/1B1N2PP/3RK2R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:15:27"]
+
+1... Nd5 2. exd5 Bh4+ 3. g3 Bxg3+ 4. hxg3 Qxg3# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/NG0Y9JHy"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "5rk1/pb1qrpb1/1pn3pn/2p1p1Np/2B1NP1P/PP2P1P1/1BQP1K2/1R2R3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:17:45"]
+
+{ [%cal Gb1h7] }
+1. Nf6+ Bxf6 2. Qxg6+ Kh8 3. Qh7# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/DkS1bH7S"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "8/1bq1kp2/1p2pn2/pNr5/7Q/P3P3/1P2BPrP/3RK2R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:18:59"]
+
+1... Rxb5 2. Bxb5 { [%cal Ga8h1] } 2... Rg4 *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/4wb5DTUg"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "r1k5/P2n1p2/2p1p3/B7/2N5/4P3/5P1q/R3KB2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:19:53"]
+
+1. Nd6+ Qxd6 2. Ba6# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/uhVhVCDb"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "1QR5/5qpk/p5rp/8/3Bp3/2P4P/P5r1/3R3K b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:23:17"]
+
+{ [%csl Gg2] }
+1... Rh2+ 2. Kxh2 Qxa2+ 3. Kh1 Qg2# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/BZLKOn5M"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "1n4k1/r5np/1p4PB/p1p5/6P1/2P4P/q3B3/4QRK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:21:01"]
+
+1. Bc4+ Qxc4 2. Qe8+ Nxe8 3. Rf8# *
+
+
+[Event "Line Clearance: Line Clearance Activity"]
+[Date "2021.03.14"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Line Clearance"]
+[ChapterName "Line Clearance Activity"]
+[ChapterURL "https://lichess.org/study/0oj9mriU/fLkv11SX"]
+[Annotator "https://lichess.org/@/MasterHinds"]
+[FEN "r5kr/1pp1b2p/p1n3pB/5bN1/3PN3/8/PPP1QPPP/R3R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.03.14"]
+[UTCTime "13:11:29"]
+
+1. Nf6+ Bxf6 2. Qe8+ Rxe8 3. Rxe8# *
