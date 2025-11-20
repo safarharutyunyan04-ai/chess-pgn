@@ -1,0 +1,516 @@
+[SetUp "0"]
+[FEN "8/p4p1p/2K1k1p1/3rP3/5PP1/8/7P/1R6 b - - 0 29"]
+[Site "https://lichess.org/pIJSqJF9"]
+[Date "2024.2.20"]
+[White "ls1502"]
+[Black "spartacus-12"]
+[Result "1-0"]
+[Termination "-19"]
+
+29. ... Rd2 30. Kc5 1-0
+
+[SetUp "1"]
+[FEN "8/p4p1p/2K1k1p1/4P3/5PP1/8/3r3P/1R6 w - - 1 30"]
+[Site "https://lichess.org/pIJSqJF9"]
+[Date "2024.2.20"]
+[White "ls1502"]
+[Black "spartacus-12"]
+[Result "0-1"]
+[Termination "-353"]
+
+30. h4 Rd4 31. Rf1 a5 32. h5 a4 33. Rf3 a3 34. f5+ Kxe5 35. fxg6 fxg6 36. Rxa3 Rxg4 37. Kd7 0-1
+
+[SetUp "2"]
+[FEN "8/p4p1p/2K1k1p1/4P3/5PPP/8/3r4/1R6 b - h3 0 30"]
+[Site "https://lichess.org/pIJSqJF9"]
+[Date "2024.2.20"]
+[White "ls1502"]
+[Black "spartacus-12"]
+[Result "1-0"]
+[Termination "0"]
+
+30. ... Rh2 31. Rd1 Rc2+ 32. Kb5 Rf2 33. Rd4 Rf3 34. Kc5 a5 35. Kc6 Rc3+ 36. Kb5 Rg3 37. Rd6+ Ke7 1-0
+
+[SetUp "3"]
+[FEN "r2q1rk1/pp3ppp/2p1p3/3pbb2/2P3B1/1PNPP3/PBQ2PPP/R4RK1 b - - 0 12"]
+[Site "https://lichess.org/47ihC4Yu"]
+[Date "2022.12.23"]
+[White "ls1502"]
+[Black "davv777"]
+[Result "1-0"]
+[Termination "571"]
+
+12. ... Qh4 13. Bh3 1-0
+
+[SetUp "4"]
+[FEN "4kqQ1/7p/1p6/5r2/5P1B/8/6PP/6RK w - - 3 47"]
+[Site "https://lichess.org/kdBAI80t"]
+[Date "2022.11.18"]
+[White "ls1502"]
+[Black "gowez"]
+[Result "0-1"]
+[Termination "-682"]
+
+47. Qd5 Rxd5 0-1
+
+[SetUp "5"]
+[FEN "4kq2/7p/1p6/3Q1r2/5P1B/8/6PP/6RK b - - 4 47"]
+[Site "https://lichess.org/kdBAI80t"]
+[Date "2022.11.18"]
+[White "ls1502"]
+[Black "gowez"]
+[Result "1-0"]
+[Termination "mate:1"]
+
+47. ... Qf7 48. Qd8# 1-0
+
+[SetUp "6"]
+[FEN "4k3/5q1p/1p6/3Q1r2/5P1B/8/6PP/6RK w - - 5 48"]
+[Site "https://lichess.org/kdBAI80t"]
+[Date "2022.11.18"]
+[White "ls1502"]
+[Black "gowez"]
+[Result "0-1"]
+[Termination "-669"]
+
+48. Bg5 Rxd5 49. Bh4 Qf5 50. Be1 Rd3 51. Bf2 b5 52. Ba7 b4 53. Bb8 Kd7 54. Be5 b3 55. Bg7 0-1
+
+[SetUp "7"]
+[FEN "4k3/5q1p/1p6/3Q1rB1/5P2/8/6PP/6RK b - - 6 48"]
+[Site "https://lichess.org/kdBAI80t"]
+[Date "2022.11.18"]
+[White "ls1502"]
+[Black "gowez"]
+[Result "1-0"]
+[Termination "mate:23"]
+
+48. ... Kf8 49. Bh6+ Ke8 50. Re1+ Qe7 51. Rxe7+ Kxe7 52. Qxf5 Kd6 53. Qxh7 Kc6 54. Qe4+ Kd6 55. f5 b5 1-0
+
+[SetUp "8"]
+[FEN "5k2/5q1p/1p6/3Q1rB1/5P2/8/6PP/6RK w - - 7 49"]
+[Site "https://lichess.org/kdBAI80t"]
+[Date "2022.11.18"]
+[White "ls1502"]
+[Black "gowez"]
+[Result "0-1"]
+[Termination "-209"]
+
+49. Qe5 Rxe5 50. fxe5 b5 51. Ra1 Qf5 52. Bh6+ Ke8 53. Ra8+ Kd7 54. Ra7+ Ke6 55. h3 Qb1+ 56. Kh2 0-1
+
+[SetUp "9"]
+[FEN "5k2/5q1p/1p6/4QrB1/5P2/8/6PP/6RK b - - 8 49"]
+[Site "https://lichess.org/kdBAI80t"]
+[Date "2022.11.18"]
+[White "ls1502"]
+[Black "gowez"]
+[Result "1-0"]
+[Termination "1510"]
+
+49. ... Qd5 50. Bh6+ 1-0
+
+[SetUp "10"]
+[FEN "1rbqk3/p4pb1/r2pp1n1/8/1p1pPP2/3P1B2/PPPQN3/1K1R2NR w - - 0 18"]
+[Site "https://lichess.org/OmIIdzUq"]
+[Date "2022.11.11"]
+[White "fredjrmutos"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "102"]
+
+18. f5 exf5 19. b3 Rb5 20. exf5 Rxf5 21. Qxb4 Qa5 22. Qxa5 Rfxa5 23. Nc1 Ne7 24. Nge2 Rg5 25. Rdf1 0-1
+
+[SetUp "11"]
+[FEN "1r2kn2/p4pb1/r2p4/q4b2/1p1p4/3P1B2/PPPQN3/1KNR3R w - - 0 22"]
+[Site "https://lichess.org/OmIIdzUq"]
+[Date "2022.11.11"]
+[White "fredjrmutos"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "0"]
+
+22. Rde1 b3 23. Bc6+ Bd7 24. Bxd7+ Nxd7 25. Qxa5 bxc2+ 26. Kxc2 Rxa5 27. Nb3 Rg5 28. Reg1 Rxg1 29. Rxg1 0-1
+
+[SetUp "12"]
+[FEN "2r5/p3Q2R/r2pp3/qkn1b3/1p1p4/1P1P1B2/P1P5/1KN1R3 w - - 12 32"]
+[Site "https://lichess.org/OmIIdzUq"]
+[Date "2022.11.11"]
+[White "fredjrmutos"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "40"]
+
+32. Rg1 Qd8 33. Qf7 Qe8 34. Bb7 Nxb7 35. Qxb7+ Rb6 36. Qxa7 Ra8 37. Qe7 Qxe7 38. Rxe7 Rf8 39. Rxe6 0-1
+
+[SetUp "13"]
+[FEN "2r5/p3Q2R/r2pp3/qkn1b3/1p1p4/1P1P1B2/P1P5/1KN3R1 b - - 13 32"]
+[Site "https://lichess.org/OmIIdzUq"]
+[Date "2022.11.11"]
+[White "fredjrmutos"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "258"]
+
+32. ... Bf4 33. Bb7 Bxc1 1-0
+
+[SetUp "14"]
+[FEN "8/8/6k1/4R1P1/ppr5/P4K2/8/8 w - - 0 60"]
+[Site "https://lichess.org/NbPGjzWA"]
+[Date "2022.11.8"]
+[White "ls1502"]
+[Black "serefra99"]
+[Result "0-1"]
+[Termination "-346"]
+
+60. Rb5 bxa3 61. Rb1 Rc3+ 62. Kf4 a2 63. Ra1 Rc2 64. Kg4 Kf7 65. Kf5 Rf2+ 66. Ke4 Ke6 67. Kd3 0-1
+
+[SetUp "15"]
+[FEN "8/8/6k1/1R4P1/ppr5/P4K2/8/8 b - - 1 60"]
+[Site "https://lichess.org/NbPGjzWA"]
+[Date "2022.11.8"]
+[White "ls1502"]
+[Black "serefra99"]
+[Result "1-0"]
+[Termination "0"]
+
+60. ... b3 61. Ke3 Rc2 62. Kd3 Ra2 63. Kc3 Rxa3 64. Kb2 Ra2+ 65. Kb1 Kh5 66. Ra5 a3 67. Rb5 Rb2+ 1-0
+
+[SetUp "16"]
+[FEN "r2qr1k1/p1pb1ppp/Q2b1n2/3Pp3/1p1nP3/3BBN2/PP3PPP/1NKR3R b - - 1 16"]
+[Site "https://lichess.org/HbF0LnH5"]
+[Date "2022.10.28"]
+[White "sanyassin2"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "266"]
+
+16. ... c5 17. Qxd6 c4 1-0
+
+[SetUp "17"]
+[FEN "r2q1rk1/pp2b1p1/3ppn1p/2p1n3/P3PR2/2NP3P/1PPN2P1/R1BQ2K1 w - - 0 13"]
+[Site "https://lichess.org/5LNZRYNZ"]
+[Date "2022.10.27"]
+[White "sub_zero99"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-247"]
+
+13. Nf3 Ng6 14. Ne2 0-1
+
+[SetUp "18"]
+[FEN "8/pp4pk/4Q2p/2p1b3/P2qP3/2NP3P/1PP2rP1/R6K w - - 1 24"]
+[Site "https://lichess.org/5LNZRYNZ"]
+[Date "2022.10.27"]
+[White "sub_zero99"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-767"]
+
+24. Re1 Qe3 25. Qxe5 Qxe1+ 26. Kh2 Rf1 27. Qf5+ Rxf5 28. exf5 Qf2 29. Ne2 Qxe2 30. h4 Qf2 31. a5 0-1
+
+[SetUp "19"]
+[FEN "r3r1k1/5pp1/2Q4p/3p4/1qpNn3/4P2P/2R2PP1/3R2K1 w - - 0 31"]
+[Site "https://lichess.org/fiGnjKAP"]
+[Date "2022.10.26"]
+[White "sun_god_nika36"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-389"]
+
+31. Qxd5 Nc3 32. Rxc3 Qxc3 33. Nb5 Qc2 34. Nd6 Red8 35. Qxf7+ Kh7 36. Rd4 Rf8 37. Qe7 Qxf2+ 38. Kh2 0-1
+
+[SetUp "20"]
+[FEN "1R6/1b3r2/2p3R1/2Pp1kpN/3Pp2p/4P2P/r5P1/6K1 w - - 4 37"]
+[Site "https://lichess.org/MyfEIlVo"]
+[Date "2022.10.10"]
+[White "brgy23"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "623"]
+
+37. Rgg8 Ra1+ 38. Kh2 Ra8 39. g4+ hxg3+ 40. Nxg3+ Ke6 41. Rxa8 Bxa8 42. Re8+ Kd7 43. Rxa8 Rf3 44. Rg8 0-1
+
+[SetUp "21"]
+[FEN "1R4R1/1b3r2/2p5/2Pp1kpN/3Pp2p/4P2P/r5P1/6K1 b - - 5 37"]
+[Site "https://lichess.org/MyfEIlVo"]
+[Date "2022.10.10"]
+[White "brgy23"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "mate:5"]
+
+37. ... Ba6 38. Rbe8 Re7 39. Rxe7 Ra1+ 40. Kh2 Rh1+ 41. Kxh1 g4 42. hxg4# 1-0
+
+[SetUp "22"]
+[FEN "1R4R1/5r2/2p5/2Pp1kpN/3Pp2p/4P2P/r5PK/5b2 w - - 8 39"]
+[Site "https://lichess.org/MyfEIlVo"]
+[Date "2022.10.10"]
+[White "brgy23"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "256"]
+
+39. Ng7+ Kg6 40. Ne8+ 0-1
+
+[SetUp "23"]
+[FEN "r2q1rk1/pb1n1p1p/1ppp2p1/4p3/P2PN2b/7P/BPP2PP1/R1BQR1K1 w - - 0 13"]
+[Site "https://lichess.org/YEB5UdGt"]
+[Date "2022.10.10"]
+[White "ls1502"]
+[Black "sirmarilian"]
+[Result "0-1"]
+[Termination "-90"]
+
+13. Bh6 d5 14. dxe5 0-1
+
+[SetUp "24"]
+[FEN "4r3/pb5p/1p1R2p1/4nk2/P1B4P/8/1PP3P1/4R1K1 w - - 1 28"]
+[Site "https://lichess.org/YEB5UdGt"]
+[Date "2022.10.10"]
+[White "ls1502"]
+[Black "sirmarilian"]
+[Result "0-1"]
+[Termination "265"]
+
+28. Bd5 Nf3+ 29. gxf3 Rxe1+ 30. Kf2 Re7 31. Bxb7 Rxb7 32. c4 Rc7 33. b3 Re7 34. Rd4 Rb7 35. Kg3 0-1
+
+[SetUp "25"]
+[FEN "4r3/pb5p/1p1R2p1/3Bnk2/P6P/8/1PP3P1/4R1K1 b - - 2 28"]
+[Site "https://lichess.org/YEB5UdGt"]
+[Date "2022.10.10"]
+[White "ls1502"]
+[Black "sirmarilian"]
+[Result "1-0"]
+[Termination "800"]
+
+28. ... Ba6 29. Re4 h5 30. a5 Bc8 31. axb6 axb6 32. Rxb6 Bd7 33. Rbb4 Kf6 34. c4 Ng4 35. Rb6+ Kf5 1-0
+
+[SetUp "26"]
+[FEN "8/1p3p2/2p1bkp1/7p/2P1B3/1P2P2P/4KPP1/8 b - - 0 25"]
+[Site "https://lichess.org/CLOgCLmY"]
+[Date "2022.10.6"]
+[White "ls1502"]
+[Black "nick_litvinchuk"]
+[Result "1-0"]
+[Termination "522"]
+
+25. ... b5 26. Bxc6 bxc4 27. b4 Ke5 28. Kd2 h4 29. Kc3 g5 30. Bb5 f5 31. Bxc4 Bc8 32. Be2 g4 1-0
+
+[SetUp "27"]
+[FEN "4R3/p1q2ppk/1p4p1/1Q3n2/8/P4P1P/1P1r1BP1/6K1 w - - 9 35"]
+[Site "https://lichess.org/tqcPgWS8"]
+[Date "2022.10.6"]
+[White "ishakmendil"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-383"]
+
+35. Re2 Qc1+ 0-1
+
+[SetUp "28"]
+[FEN "8/p4ppk/1p4p1/8/2qn4/P4PBP/1P1Q2PK/8 w - - 9 42"]
+[Site "https://lichess.org/tqcPgWS8"]
+[Date "2022.10.6"]
+[White "ishakmendil"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-997"]
+
+42. Qd3 Qxd3 43. Bf2 Ne2 44. a4 Qd2 45. g3 Qxb2 46. Kh1 Qd2 47. h4 Nc3 48. Bxb6 axb6 49. a5 0-1
+
+[SetUp "29"]
+[FEN "2k5/pppr2p1/2p1bp2/q4N2/3PP1p1/P3P3/1PP2QP1/1K3R2 w - - 3 24"]
+[Site "https://lichess.org/JFhggFaE"]
+[Date "2022.10.6"]
+[White "ls1502"]
+[Black "juniortay"]
+[Result "0-1"]
+[Termination "36"]
+
+24. Nxg7 Bc4 0-1
+
+[SetUp "30"]
+[FEN "rn1q1rk1/6p1/bp2p2p/p2pPp2/P2Pn3/B1PB1N2/2Q2PPP/1R3RK1 b - - 1 16"]
+[Site "https://lichess.org/T2OAQfMU"]
+[Date "2022.10.6"]
+[White "ls1502"]
+[Black "ronen1234"]
+[Result "1-0"]
+[Termination "163"]
+
+16. ... Re8 17. Ne1 Bxd3 18. Nxd3 Nd7 19. f3 Ng5 20. Rfc1 Rc8 21. Qb3 Qc7 22. Nb2 Qd8 23. Qb5 Nf7 1-0
+
+[SetUp "31"]
+[FEN "1r4k1/5ppp/2Qbp3/1P6/1q1P4/2p1P1P1/5PBP/R5K1 b - - 2 25"]
+[Site "https://lichess.org/tsGnrXIr"]
+[Date "2022.10.2"]
+[White "insterburg"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "299"]
+
+25. ... g6 26. Be4 c2 27. Bxc2 Rxb5 28. Rb1 Qxb1+ 29. Bxb1 Rxb1+ 30. Kg2 Bf8 31. g4 h6 32. Qc2 Rb4 1-0
+
+[SetUp "32"]
+[FEN "8/8/3kpb2/1K3p2/3P1P2/4P2B/8/8 b - - 0 76"]
+[Site "https://lichess.org/tsGnrXIr"]
+[Date "2022.10.2"]
+[White "insterburg"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "1776"]
+
+76. ... Bg5 77. fxg5 Kd7 78. d5 Kd6 79. g6 Ke7 80. dxe6 Kxe6 81. e4 Ke5 82. exf5 Kf6 83. Kc5 Kg7 1-0
+
+[SetUp "33"]
+[FEN "3r1rk1/1pbn1pp1/p1p2p2/2Pp1Q2/PP1P2Pq/4PP1p/3NN2P/R4RK1 w - - 4 22"]
+[Site "https://lichess.org/0EsxmHwW"]
+[Date "2022.9.30"]
+[White "rog_aw"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-291"]
+
+22. Nf4 Rfe8 23. Ra3 g6 24. Qd3 f5 25. Ne2 fxg4 26. f4 Re7 27. Rf2 Rde8 28. Nf1 Nf6 29. Neg3 0-1
+
+[SetUp "34"]
+[FEN "3r4/5p1p/R2p1k2/2pP1p2/1p3K2/7P/2P3P1/8 w - - 0 33"]
+[Site "https://lichess.org/pdqAii9c"]
+[Date "2022.9.25"]
+[White "ls1502"]
+[Black "tonyrendon"]
+[Result "0-1"]
+[Termination "-734"]
+
+33. Ra7 Re8 34. g4 0-1
+
+[SetUp "35"]
+[FEN "3r4/R4p1p/3p1k2/2pP1p2/1p3K2/7P/2P3P1/8 b - - 1 33"]
+[Site "https://lichess.org/pdqAii9c"]
+[Date "2022.9.25"]
+[White "ls1502"]
+[Black "tonyrendon"]
+[Result "1-0"]
+[Termination "-305"]
+
+33. ... h5 34. Ra6 Kg6 1-0
+
+[SetUp "36"]
+[FEN "6k1/2R2p1p/2p3p1/8/1p1K4/2r3P1/P4P1P/8 b - - 1 35"]
+[Site "https://lichess.org/JSMIeBQy"]
+[Date "2022.9.24"]
+[White "ls1502"]
+[Black "shukh_nikolay"]
+[Result "1-0"]
+[Termination "-68"]
+
+35. ... Kg7 36. a4 Ra3 37. Rxc6 Rxa4 38. Rb6 Ra2 39. Ke3 Rb2 40. Kf3 Kf8 41. Rb7 Rb3+ 42. Kg4 Kg7 1-0
+
+[SetUp "37"]
+[FEN "r5k1/1ppP2p1/8/nP1q1p2/4N2R/B1N1P1P1/P5K1/8 b - - 1 24"]
+[Site "https://lichess.org/0VA0yoRS"]
+[Date "2022.9.23"]
+[White "mrlaffen"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "924"]
+
+24. ... Qxa2+ 25. Nxa2 Rd8 26. Nc5 b6 27. Bb4 g5 28. Ne6 Rxd7 29. Nxg5 c5 30. Bc3 Rg7 31. Nh3 Rh7 1-0
+
+[SetUp "38"]
+[FEN "r2q1rk1/pp2n1p1/2n1b2p/2p1p3/3pP1PN/P2P3P/1PPQN3/2KR1B1R b - - 2 16"]
+[Site "https://lichess.org/laZBHXin"]
+[Date "2022.9.12"]
+[White "evora2019"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "-94"]
+
+16. ... Rf2 17. Nf5 b5 1-0
+
+[SetUp "39"]
+[FEN "r2q2k1/pp2n1p1/2n1b2p/2p1p3/3pP1PN/P2P3P/1PPQNr2/2KR1B1R w - - 3 17"]
+[Site "https://lichess.org/laZBHXin"]
+[Date "2022.9.12"]
+[White "evora2019"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-324"]
+
+17. Qe1 Rf7 0-1
+
+[SetUp "40"]
+[FEN "8/2QP2pk/p4rp1/8/7P/1p1q2P1/5P2/5RK1 b - - 0 35"]
+[Site "https://lichess.org/ol3Diooc"]
+[Date "2022.9.7"]
+[White "ls1502"]
+[Black "hamham22"]
+[Result "1-0"]
+[Termination "-11"]
+
+35. ... b2 36. Qb7 Rf5 37. Qxb2 Qxd7 38. Re1 a5 39. Qc2 Rd5 40. Kg2 a4 41. Re4 a3 42. Qa4 Qf5 1-0
+
+[SetUp "41"]
+[FEN "1k1rr3/pp4p1/2pqpp1p/3n4/3P2P1/PQPB2P1/1P3P2/2KRR3 b - - 0 21"]
+[Site "https://lichess.org/8HlgnsZF"]
+[Date "2022.9.7"]
+[White "ls1502"]
+[Black "xadrezdapraia"]
+[Result "1-0"]
+[Termination "257"]
+
+21. ... c5 22. Bg6 Rh8 23. dxc5 Qxc5 24. Rxe6 Nb6 25. Be4 Qc7 26. Bg2 Rxd1+ 27. Qxd1 Nc4 28. Qe2 Ne5 1-0
+
+[SetUp "42"]
+[FEN "8/R6p/6pk/3q1p2/1prP1P2/1RnQP1P1/P1P4P/6K1 w - - 0 29"]
+[Site "https://lichess.org/9toAHdtL"]
+[Date "2022.9.6"]
+[White "nemam_blage_veze"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "0"]
+
+29. Rd7 Qf3 30. Qxc4 Ne2+ 31. Qxe2 Qxe2 32. Re7 Qe1+ 33. Kg2 g5 34. fxg5+ Kxg5 35. Rxh7 Qe2+ 36. Kg1 0-1
+
+[SetUp "43"]
+[FEN "1k3r1r/bpp2b2/pq1p1Pp1/3Pp3/1P2P1Bp/1Q1P3P/P3N2K/R4R2 w - - 7 25"]
+[Site "https://lichess.org/GkPbjff4"]
+[Date "2022.8.6"]
+[White "fabio-caressa"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "-52"]
+
+25. b5 Qxb5 0-1
+
+[SetUp "44"]
+[FEN "1k3r1r/1pp2b2/1bQp1P2/3Pp1p1/4P1Bp/3P3P/4Nq2/RR5K w - - 6 31"]
+[Site "https://lichess.org/GkPbjff4"]
+[Date "2022.8.6"]
+[White "fabio-caressa"]
+[Black "ls1502"]
+[Result "0-1"]
+[Termination "35"]
+
+31. Rxb6 Qxb6 32. Qa4 Qa6 33. Qd1 Qb6 34. Ra3 c6 35. dxc6 Kc7 36. d4 Qxc6 37. Rc3 Bc4 38. Qc2 0-1
+
+[SetUp "45"]
+[FEN "4r3/pp3pk1/5np1/8/3Qqp2/1PP5/P2RNnPP/2K2B2 b - - 6 26"]
+[Site "https://lichess.org/dkmdXyx2"]
+[Date "2022.8.2"]
+[White "newrubinstein"]
+[Black "ls1502"]
+[Result "1-0"]
+[Termination "-21"]
+
+26. ... Ng4 27. Nxf4 1-0
+
+[SetUp "46"]
+[FEN "rb1r2k1/1p3pp1/2p2n1p/3pNb2/1n1P1B1P/2N2PP1/1P2P1B1/2RR2K1 b - h3 0 18"]
+[Site "https://lichess.org/YaZwebmz"]
+[Date "2022.8.1"]
+[White "ls1502"]
+[Black "vacheh009"]
+[Result "1-0"]
+[Termination "-20"]
+
+18. ... Nd7 19. Nxd7 Bxd7 20. Bxb8 Rdxb8 21. Kf2 Kf8 22. Ra1 Bf5 23. Rxa8 Rxa8 24. e4 Be6 25. Bf1 Ke7 1-0
