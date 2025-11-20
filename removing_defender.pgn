@@ -1,0 +1,299 @@
+[Event "Remove the Defender: Remove the Defender 1"]
+[Site "https://lichess.org/study/ZRy7a8oF/rPlUfORm"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "r5k1/ppq2p1p/2p5/6r1/1P2pN2/P3PbP1/2Q2P2/R3R1K1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 1"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/GMln4pcn"]
+[FEN "r5k1/ppq2p1p/2p5/6r1/1P2pN2/P3PbP1/2Q2P2/R3R1K1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Peer vs Moush, 1960
+
+Black to Move }
+1... Qxf4 2. exf4 Rh5 3. Qxe4 Rh1# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 2"]
+[Site "https://lichess.org/study/ZRy7a8oF/EuCRBOX9"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "r2k3q/2R1npr1/p3p1p1/nN1pP1N1/3P1Q1P/1P1B2P1/5P2/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 2"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/6P3KOEYk"]
+[FEN "r2k3q/2R1npr1/p3p1p1/nN1pP1N1/3P1Q1P/1P1B2P1/5P2/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Geller vs Garriga, 1979
+
+White to Move }
+1. Qxf7 Rxf7 2. Nxe6+ Ke8 3. Nd6# { 1-0 White wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 3"]
+[Site "https://lichess.org/study/ZRy7a8oF/IHy2Z3zc"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "r3kbnr/ppp2ppp/8/q2Ppb2/1n6/2N5/PPPBNPPP/2RQKB1R b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 3"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/zoBQxCCw"]
+[FEN "r3kbnr/ppp2ppp/8/q2Ppb2/1n6/2N5/PPPBNPPP/2RQKB1R b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ NN vs Capablanca, 1935
+
+Black to Move }
+1... Bxc2 2. Rxc2 Nd3# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 4"]
+[Site "https://lichess.org/study/ZRy7a8oF/tc0eTdzC"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "r1b2rk1/pp1n2pp/2pbpq2/3pPp2/2P1n3/1P3PP1/PBQ1P1BP/RN3RK1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 4"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/SIzocYQ7"]
+[FEN "r1b2rk1/pp1n2pp/2pbpq2/3pPp2/2P1n3/1P3PP1/PBQ1P1BP/RN3RK1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Gruenfeld vs Torre, 1925
+
+Black to Move }
+1... Bc5+ 2. Kh1 Nxg3+ 3. hxg3 Qh6+ 4. Bh3 Qxh3# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 5"]
+[Site "https://lichess.org/study/ZRy7a8oF/HbshwOha"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "2kr4/1ppb3p/p4r2/8/1qP2p2/3Q1N2/PP3PPP/2KRR3 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 5"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/j9E62d2G"]
+[FEN "2kr4/1ppb3p/p4r2/8/1qP2p2/3Q1N2/PP3PPP/2KRR3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Keres vs Aljechin, 1937
+
+White to Move }
+1. Qxd7+ Kb8 2. Qxd8+ Ka7 3. Qxf6 *
+
+
+[Event "Remove the Defender: Remove the Defender 6"]
+[Site "https://lichess.org/study/ZRy7a8oF/d2o3ksWO"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "3q1rk1/1bp2ppp/1p5r/8/8/1BP3Q1/PP4PP/4RRK1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 6"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/7wDM7FYs"]
+[FEN "3q1rk1/1bp2ppp/1p5r/8/8/1BP3Q1/PP4PP/4RRK1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Ahues vs Leopold, 1903
+
+White to Move }
+1. Rxf7 Rxf7 2. Qxc7 Qa8 3. Qxf7+ Kh8 4. Re8+ Qxe8 5. Qxe8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 7"]
+[Site "https://lichess.org/study/ZRy7a8oF/V4GU4Byl"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "6k1/5pp1/Q3p2p/5b2/8/8/1PPR1qPP/2KBr3 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 7"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/RmXHyct1"]
+[FEN "6k1/5pp1/Q3p2p/5b2/8/8/1PPR1qPP/2KBr3 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Erneste vs Serper, 1992
+
+Black to Move }
+1... Rxd1+ 2. Rxd1 Qxc2# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 8"]
+[Site "https://lichess.org/study/ZRy7a8oF/4hiMIz15"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "1r2rk2/3b1pp1/p1p1p2p/q3P3/5Q1P/2NB2R1/PPP3P1/2K5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 8"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/w3XLu0Pv"]
+[FEN "1r2rk2/3b1pp1/p1p1p2p/q3P3/5Q1P/2NB2R1/PPP3P1/2K5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Keres vs Szabo, 1955
+
+White to Move }
+1. Rxg7 Kxg7 2. Qf6+ Kf8 3. Bg6 Re7 4. Qh8# { 1-0 White wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 9"]
+[Site "https://lichess.org/study/ZRy7a8oF/jhw3yFCw"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "4r3/b4pk1/p3p3/Pp1pPnpp/1Pr4q/2P2B2/3BRPPP/2R1Q2K b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 9"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/ocfBKhPN"]
+[FEN "4r3/b4pk1/p3p3/Pp1pPnpp/1Pr4q/2P2B2/3BRPPP/2R1Q2K b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Reschewski vs Ivanovic, 1976
+
+Black to Move }
+1... Qxh2+ 2. Kxh2 Rh4+ 3. Kg1 Ng3 4. Be3 Rh1# { 0-1 Black wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 10"]
+[Site "https://lichess.org/study/ZRy7a8oF/brdknIRp"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "2r5/1kN1r1bp/1Pnnpq2/3p1p2/8/PP2B1PP/K1Q2PB1/3R2R1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 10"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/Ci25Jhd0"]
+[FEN "2r5/1kN1r1bp/1Pnnpq2/3p1p2/8/PP2B1PP/K1Q2PB1/3R2R1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Meister vs Brynell, 1990
+
+Black to Move }
+1... Nb4+ 2. axb4 Rexc7 3. bxc7 Ra8+ 4. Kb1 Qa1# (4…Ra1#) { 0-1 Black wins by checkmate. }*
+
+
+
+[Event "Remove the Defender: Remove the Defender 12"]
+[Site "https://lichess.org/study/ZRy7a8oF/nEmL5pF4"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "5nk1/2b1q1p1/2p5/3pP1pQ/1r1P2P1/3B1R2/5PP1/6K1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 12"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/x00lMl7L"]
+[FEN "5nk1/2b1q1p1/2p5/3pP1pQ/1r1P2P1/3B1R2/5PP1/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Geller vs Novotelnov, 1951
+
+White to Move }
+1. Rxf8+ Qxf8 2. Bh7+ Kh8 3. Bg6+ Kg8 4. Qh7# { 1-0 White wins by checkmate. } *
+
+
+[Event "Remove the Defender: Remove the Defender 13"]
+[Site "https://lichess.org/study/ZRy7a8oF/MhRM5EqC"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "3b3r/pp2q1k1/6p1/3p1pPp/2pPrP1K/P1P1P3/1P1BR3/4R1Q1 b - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 13"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/XdPujPB0"]
+[FEN "3b3r/pp2q1k1/6p1/3p1pPp/2pPrP1K/P1P1P3/1P1BR3/4R1Q1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Evans vs Karaklajic, 1962
+
+Black to Move }
+1... Qxg5+ 2. Qxg5 Bxg5+ 3. Kxg5 h4 4. Rh2 Rh5# *
+
+
+
+[Event "Remove the Defender: Remove the Defender 15"]
+[Site "https://lichess.org/study/ZRy7a8oF/MCmzBOw6"]
+[Date "2025.09.02"]
+[Result "*"]
+[Annotator "https://lichess.org/@/Rawnsdale"]
+[FEN "rn1qkbnr/3ppppp/p1b5/2N5/1p1N4/1B6/PPP2P1P/R1BQK1R1 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Removing defender"]
+[ChapterName "Remove the Defender: Remove the Defender 15"]
+[ChapterURL "https://lichess.org/study/LI65f8qp/KxbwY6gm"]
+[FEN "rn1qkbnr/3ppppp/p1b5/2N5/1p1N4/1B6/PPP2P1P/R1BQK1R1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.09.02"]
+[UTCTime "09:07:44"]
+
+{ Estrin vs Katalymow, 1969
+
+White to Move }
+1. Bxf7+ Kxf7 2. Rxg7+ Bxg7 *
