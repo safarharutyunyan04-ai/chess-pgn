@@ -616,3 +616,604 @@
 
 { Black's h-pawn looks decisive, but White has a winning trick up their sleeve! Can you find it? }
 2. a3+ { Luring the king into a nice skewer. } 2... Kxa3 3. Ra5+ Kb4 4. Ra4+ { The point, White wins the rook on h4 and stops the h-pawn. Game over. } *
+
+[Event "VP1989's Study: Chapter 1"]
+[Date "2025.02.13"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Chapter 1"]
+[ChapterURL "https://lichess.org/study/opqvDobF/bMPX5Xtb"]
+[Annotator "https://lichess.org/@/VP1989"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:07:29"]
+
+ *
+
+
+[Event "Attraction Study #22"]
+[Site "Rinck, 1902"]
+[Date "2025.02.13"]
+[Result "*"]
+[FEN "8/p7/8/2K5/k1N1p1BP/8/8/2q5 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Attraction Study #22"]
+[ChapterURL "https://lichess.org/study/opqvDobF/tcE1NVQw"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/p7/8/2K5/k1N1p1BP/8/8/2q5 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:07:38"]
+
+1. Bd1+! { This move traps Black’s queen by forcing it to capture. } 1... Qxd1 { Forced. } 2. Nb2+! { The knight fork wins decisive material. } *
+
+
+[Event "Attraction Study #18"]
+[Site "Horwitz, 1884"]
+[Date "2025.02.13"]
+[Result "*"]
+[FEN "8/8/2pk4/1p6/1q6/4B3/B3KN2/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Attraction Study #18"]
+[ChapterURL "https://lichess.org/study/opqvDobF/IlgEEtOn"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/8/2pk4/1p6/1q6/4B3/B3KN2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:09:35"]
+
+1. Bc5+! { If ...Qxc5 or ...Kxc5, then 4. Nd3+ wins decisively. } *
+
+
+[Event "Attraction Study #17"]
+[Site "Behting, 1894"]
+[Date "2025.02.13"]
+[Result "*"]
+[FEN "8/8/p7/k1q1N3/6pK/1P6/P3P3/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Attraction Study #17"]
+[ChapterURL "https://lichess.org/study/opqvDobF/DcAPdtVQ"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/8/p7/k1q1N3/6pK/1P6/P3P3/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:10:00"]
+
+1. b4+! { After ...Qxb4 or ...Kxb4, White wins by a decisive knight fork. } *
+
+
+[Event "VP1989's Study: Chapter 5"]
+[Date "2025.02.13"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Chapter 5"]
+[ChapterURL "https://lichess.org/study/opqvDobF/db5OOlgZ"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/8/2pk4/1p6/1q6/4B3/B3KN2/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:10:39"]
+
+ *
+
+
+[Event "Attraction Study #30"]
+[Site "Selezniev, 1912"]
+[Date "2025.02.13"]
+[Result "*"]
+[FEN "8/8/p7/6R1/1k5r/1Pp5/P1K4p/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Attraction Study #30"]
+[ChapterURL "https://lichess.org/study/opqvDobF/dnJT9Eya"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/8/p7/6R1/1k5r/1Pp5/P1K4p/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:12:28"]
+
+1. a3+! { White’s pawn move lures Black’s king away from its defensive duty. } *
+
+
+[Event "VP1989's Study: Chapter 7"]
+[Date "2025.02.13"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Chapter 7"]
+[ChapterURL "https://lichess.org/study/opqvDobF/oky8LRGc"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/8/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:17:58"]
+
+ *
+
+
+[Event "Attraction Study #9"]
+[Site "Attraction"]
+[Date "2025.02.13"]
+[Result "*"]
+[FEN "8/p7/3Npr1k/4p3/6P1/1B6/PK6/8 w - - 0 1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "VP1989's Study"]
+[ChapterName "Attraction Study #9"]
+[ChapterURL "https://lichess.org/study/opqvDobF/Ie7ZeU1L"]
+[Annotator "https://lichess.org/@/VP1989"]
+[FEN "8/p7/3Npr1k/4p3/6P1/1B6/PK6/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.02.13"]
+[UTCTime "07:18:12"]
+
+1. g5+! Kxg5 2. Ne4+ *
+
+[Event "Attraction: Attraction puis attaque double"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis attaque double"]
+[ChapterURL "https://lichess.org/study/W63weKHX/RB70gzyP"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "5R2/4q1pk/8/8/5N2/6P1/6K1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:19:07"]
+
+1. Rh8+ Kxh8 2. Ng6+ Kh7 3. Nxe7 *
+
+
+[Event "Attraction: Attraction puis attaque double"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis attaque double"]
+[ChapterURL "https://lichess.org/study/W63weKHX/ZNxdOONB"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "3Q4/5bkp/8/4q1N1/8/8/6P1/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:21:43"]
+
+1. Qh8+ Kxh8 2. Nxf7+ Kg7 (2... Kg8 3. Nxe5) 3. Nxe5 *
+
+
+[Event "Attraction: Attraction puis attaque double"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis attaque double"]
+[ChapterURL "https://lichess.org/study/W63weKHX/0AXXhnsi"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "6k1/6p1/8/8/2n5/2p5/8/1K1Q4 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:22:49"]
+
+1... c2+ 2. Qxc2 (2. Kxc2 Ne3+ 3. Kd2 Nxd1 4. Kxd1 { [%cal Gg8f7,Gf7f6,Gf6f5,Gd1e2,Ge2f3] } 4... Kf7 5. Ke2 Ke6 6. Kf3 Kf5) 2... Na3+ *
+
+
+[Event "Attraction: Attraction puis attaque double"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis attaque double"]
+[ChapterURL "https://lichess.org/study/W63weKHX/eZWiTPoa"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "3r3k/6pp/4Q3/4B3/8/8/5r2/1K6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:25:10"]
+
+1. Bxg7+ Kxg7 { [%cal Ge6e7] } 2. Qe7+ Kg6 3. Qxd8 *
+
+
+[Event "Attraction: Attraction puis attaque double"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis attaque double"]
+[ChapterURL "https://lichess.org/study/W63weKHX/5VeKlYVD"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "1k6/npp5/8/8/1q6/1P3Q2/PB5r/1K4R1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:26:39"]
+
+1... Rxb2+ 2. Kxb2 Qd4+ 3. Ka3 Qxg1 4. Qf8+ Nc8 *
+
+
+[Event "Attraction: --------------------------------------------------------------"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "--------------------------------------------------------------"]
+[ChapterURL "https://lichess.org/study/W63weKHX/bbTq6kZN"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/8/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:33:04"]
+
+ *
+
+
+[Event "Attraction: Attraction puis découverte"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis découverte"]
+[ChapterURL "https://lichess.org/study/W63weKHX/BTkA2U5Z"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/k1q5/B7/8/1pp5/8/8/R2R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:29:09"]
+
+1. Rd7 (1. Bb5+ Kb8 (1... Kb6)) 1... Qxd7 2. Bb5+ Kb7 3. Bxd7 *
+
+
+[Event "Attraction: Attraction puis découverte"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis découverte"]
+[ChapterURL "https://lichess.org/study/W63weKHX/HucFJ9r9"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "2k5/8/7Q/8/4bp2/4q3/1BP3P1/5K2 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:31:35"]
+
+1... Bxg2+ 2. Kxg2 f3+ 3. Kg3 Qxh6 4. Kxf3 *
+
+
+[Event "Attraction: Attraction puis découverte"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis découverte"]
+[ChapterURL "https://lichess.org/study/W63weKHX/relF2mlU"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "r2qr3/pp1b1pkp/5np1/2BNp3/P3P3/1P6/4QPPP/2R1R1K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:52:55"]
+
+1. Nc7 Qxc7 2. Bf8+ Kxf8 3. Rxc7 *
+
+
+[Event "Attraction: --------------------------------------------------------------"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "--------------------------------------------------------------"]
+[ChapterURL "https://lichess.org/study/W63weKHX/CdjIcbru"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/8/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:33:09"]
+
+ *
+
+
+[Event "Attraction: Clouage - Attirer la pièce avant"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Clouage - Attirer la pièce avant"]
+[ChapterURL "https://lichess.org/study/W63weKHX/T0LM8aNk"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "6k1/2p5/8/3n3q/8/8/PKB5/2RR4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:39:35"]
+
+1. Rxd5 (1. Bb3 c6 (1... Qe5+ 2. Ka3) 2. Rxc6) 1... Qxd5 2. Bb3 *
+
+
+[Event "Attraction: Clouage - Attirer la pièce avant"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Clouage - Attirer la pièce avant"]
+[ChapterURL "https://lichess.org/study/W63weKHX/uQYnopA0"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/pk6/1p6/3b1q2/8/4P3/PP4B1/K5Q1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:41:38"]
+
+{ [%cal Ge3e4,Gd5e4,Gg1b1] }
+1. e4 Bxe4 2. Qb1 Qc5 3. Bxe4+ *
+
+
+[Event "Attraction: Clouage - Attirer la pièce avant"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Clouage - Attirer la pièce avant"]
+[ChapterURL "https://lichess.org/study/W63weKHX/WaU90cRK"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "k7/ppqr1p2/6n1/8/8/1Q3B2/6PP/3R2K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:45:08"]
+
+ *
+
+
+[Event "Attraction: Clouage - Attirer la pièce arrière"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Clouage - Attirer la pièce arrière"]
+[ChapterURL "https://lichess.org/study/W63weKHX/zUT4nKUw"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/1p3pk1/5bp1/4n3/4N3/2B5/1P3P2/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:48:13"]
+
+1. Nxf6 Kxf6 2. f4 *
+
+
+[Event "Attraction: Clouage - Attirer la pièce arrière"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Clouage - Attirer la pièce arrière"]
+[ChapterURL "https://lichess.org/study/W63weKHX/WNmZ9Fw7"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "6k1/6q1/5bp1/5p2/4r3/5Q1P/1B4P1/5R1K w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:49:25"]
+
+1. Bxf6 (1. g4 Bxb2 2. gxf5) 1... Qxf6 2. Qxe4 *
+
+
+[Event "Attraction: Clouage - Attirer la pièce arrière"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Clouage - Attirer la pièce arrière"]
+[ChapterURL "https://lichess.org/study/W63weKHX/jKmtQZxr"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "5rk1/Q4ppp/3q4/1p6/1n2R3/5BPP/3rRPK1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:46:24"]
+
+1. Rxd2 Qxd2 2. Qa5 *
+
+
+[Event "Attraction: --------------------------------------------------------------"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "--------------------------------------------------------------"]
+[ChapterURL "https://lichess.org/study/W63weKHX/KrywZlSZ"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/8/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:33:25"]
+
+ *
+
+
+[Event "Attraction: Attraction puis rayon X"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis rayon X"]
+[ChapterURL "https://lichess.org/study/W63weKHX/pptsxLds"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "5q2/1p2k3/p2p4/5bp1/1B6/P2P1P2/2K3P1/1Q6 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:59:48"]
+
+1... Bxd3+ 2. Kxd3 Qf5+ 3. Kd2 Qxb1 *
+
+
+[Event "Attraction: Attraction puis rayon X"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis rayon X"]
+[ChapterURL "https://lichess.org/study/W63weKHX/6Oy2GnVh"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "4b3/pp6/2r5/4nk2/7P/1PB3P1/P4PK1/1R6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "09:12:59"]
+
+1. Bxe5 Kxe5 2. Re1+ { [%cal Ge1e8] } 2... Kd5 3. Rxe8 *
+
+
+[Event "Attraction: Attraction puis rayon X"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attraction puis rayon X"]
+[ChapterURL "https://lichess.org/study/W63weKHX/J0IKOtYD"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "7K/6P1/4k3/8/7Q/2q5/2p5/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "09:36:39"]
+
+ *
+
+
+[Event "Attraction: --------------------------------------------------------------"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "--------------------------------------------------------------"]
+[ChapterURL "https://lichess.org/study/W63weKHX/ODWz2o7C"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "8/8/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "09:00:46"]
+
+ *
+
+
+[Event "Attraction: Attirer le roi puis mat"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attirer le roi puis mat"]
+[ChapterURL "https://lichess.org/study/W63weKHX/irMs6wZE"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "1kr5/1ppq4/1Pp5/8/8/1Q6/R7/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "08:55:09"]
+
+1. Ra8+ Kxa8 2. Qa4+ Kb8 3. Qa7# *
+
+
+[Event "Attraction: Attirer le roi puis mat"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attirer le roi puis mat"]
+[ChapterURL "https://lichess.org/study/W63weKHX/98SfE2s7"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "2R5/kp6/pp3q2/3B4/Q7/8/3r1P2/5K2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "09:04:48"]
+
+1. Qxa6+ (1. Ra8+ Kxa8 2. Qxa6+ Kb8 3. Qxb7#) 1... bxa6 (1... Kxa6) 2. Ra8# *
+
+
+[Event "Attraction: Attirer le roi puis mat"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attirer le roi puis mat"]
+[ChapterURL "https://lichess.org/study/W63weKHX/5QxtQaDr"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "4r3/2Q5/p3qkp1/1p1p2pp/2bP4/P3B1P1/1R3PKP/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "09:02:25"]
+
+1. Bxg5+ Kxg5 2. Qf4# *
+
+
+[Event "Attraction: Attirer le roi puis mat"]
+[Date "2025.04.28"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Attraction"]
+[ChapterName "Attirer le roi puis mat"]
+[ChapterURL "https://lichess.org/study/W63weKHX/ntx9pR7X"]
+[Annotator "https://lichess.org/@/Sylv1G"]
+[FEN "4r3/2Q5/p3qkp1/1p1p2pp/2bP4/P3B1P1/1R3PKP/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2025.04.28"]
+[UTCTime "09:08:58"]
+
+1... Qh3+ 2. Kh1 (2. Kg1 Qf1#) (2. Kxh3 Bf1#) (2. Kf3 g4+ 3. Kf4 Re4# (3... g5#)) 2... Qf1# *
