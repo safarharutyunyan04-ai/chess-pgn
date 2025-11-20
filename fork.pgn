@@ -1,13 +1,4 @@
-[FEN "8/p4p1p/2K1k1p1/3rP3/5PP1/8/7P/1R6 b - - 0 29"]
-[Site "https://lichess.org/pIJSqJF9"]
-[Date "2024.2.20"]
-[White "ls1502"]
-[Black "spartacus-12"]
-[Result "1-0"]
-[Termination "-19"]
-
-29. ... Rd2 30. Kc5 1-0
-
+[SetUp "1"]
 [FEN "8/p4p1p/2K1k1p1/4P3/5PP1/8/3r3P/1R6 w - - 1 30"]
 [Site "https://lichess.org/pIJSqJF9"]
 [Date "2024.2.20"]
