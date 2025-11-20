@@ -1,0 +1,150 @@
+[Event "1.1.15 Combinations: Combinations - Combinations 15-1"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-1"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-1"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/rF8UIdkG"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "3b1kr1/3p1p1R/q1rP4/3R2P1/4QP2/PK6/1P6/8 w - - 0 1"]
+[SetUp "1"]
+
+{ N. Short – C. Lutz, Budapest 2003  White finds a forced mate. }
+1. Rxf7+ Kxf7 2. Qf5+ Kg7 { 2...Ke8  is no better:  3.Re5+  Be7  4.Rxe7+  Kd8  5.Qxd7#. } 3. Qxd7+ Kg6 { Or  3...Be7  4.Qxe7+  Kh8  5.Qf6+  Rg7  6.Qf8+  Kh7   6...Rg8  7.Qh6#  7.g6+!  Kh6   7...Kxg6  8.Rg5++–   7...Rxg6  8.Rh5+  and then mate.  8.Qh8+  Kxg6  9.Qh5+  Kf6  10.Qf5#. } 4. Qe6+ { Black resigned, in view of  4...Kh5   Or  4...Bf6  5.Qf5+  Kh5  6.Qh3+  Kg6  7.Qh6+  Kf7  8.Qxf6+  Ke8  9.Qe7#  5.Qh3+  Kg6  6.Qh6+  Kf7  7.Rf5+  Ke8  8.Qe6+  and then mate. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-2"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-2"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-2"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/RzKkAW9f"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "1r1q1r2/pbpnbpk1/1p2p1p1/6P1/3PBQP1/5N2/PPP2P2/2KR3R w - - 0 1"]
+[SetUp "1"]
+
+{ J. Polgar – F. Berkes, Budapest 2003 }
+1. Rh7+ { White sacrifices a whole rook, just to bring her queen onto the open file with tempo. } 1... Kxh7 2. Qh2+ Kg8 { 2...Kg7  is even worse, on account of  3.Qh6+. } 3. Rh1 { The threat is Qh8# or Qh7#. Black must give up his queen to prevent mate. } 3... Bxg5+ 4. Nxg5 Qxg5+ { 4...Kg7  does not save the queen, because of  5.Nxe6+!  , and if  5...fxe6  then  6.Qh7+  Kf6  7.g5+!  Kxg5  8.Qh4#. } 5. f4 Qxf4+ 6. Qxf4 Bxe4 7. Qxe4 { But not  7.Qh6??  due to  7...Bxh1.  White has a decisive material and positional advantage. Black may have resigned too early here, but White should win in the long run. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-3"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-3"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-3"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/2h3NXMwc"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "1r4k1/R5p1/6Pp/5p2/5P2/3pnP1q/5Q2/6K1 w - - 0 1"]
+[SetUp "1"]
+
+{ Enit – Effel, Correspondence 1957  White finds a lovely drawing combination. }
+1. Ra8 { [%cal Rb8b1] } 1... Rxa8 2. Qa2+ { And Black must stalemate his opponent: } 2... Rxa2 { Stalemate.   Because  2...Kf8??  allows  3.Qf7#. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-4"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-4"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-4"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/QtKiBWHL"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "2rr2k1/1p2ppbp/6p1/pP1nPb2/4N1q1/P4NP1/1B2QP1P/R3R2K b - - 0 1"]
+[SetUp "1"]
+
+{ In a combination, you normally only use active moves: checks, captures, various attacking moves or threats. In this lesson, it is precisely these active possibilities on which you should be concentrating. Special attention needs to be paid to the first moves.  A. Alekhine – V. Mikenas, Kemeri 1937   In the game, Black played:  1...Bxe4?!  And obtained just a small advantage.  Instead Black could have played the combination... }
+1... Rc2 2. Qxc2 Qxf3+ 3. Kg1 Bh3 4. Nf6+ Nxf6 { Winning immediately. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-5"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-5"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-5"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/Qqi3V06Q"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "6k1/2r1q1n1/4pR1Q/p2pP1Pp/7P/1r6/1P6/1K3R2 b - - 0 1"]
+[SetUp "1"]
+
+{ N. Krogius – G. Lisitsin, USSR Ch, Leningrad 1951 }
+1... Rxb2+ { Of course, the highest priority has to be given to checks. In this position, Black found a forced win. } 2. Kxb2 Qb4+ 3. Ka1 { Or  3.Ka2  Rc2+  4.Ka1  Qb2#. } 3... Qa3+ 4. Kb1 Rb7+ 5. Kc2 Rb2+ 6. Kc1 Qa1# { 0-1 Black wins by checkmate. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-6"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-6"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-6"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/9lm38eCl"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "7r/p1rbpk2/3q1p2/3P4/1p2QNPp/1P5P/P1P2R1K/4R3 w - - 0 1"]
+[SetUp "1"]
+
+{ Kofman – Kotlerman, Ukrainian Ch 1947  White has a strong attack. }
+1. Qg6+ Kf8 2. Re6 { An important, active, attacking move which his opponent cannot ignore. } 2... Qc5 { 2...Bxe6  3.dxe6  leads to a situation in which Black can do nothing about the threat of mate on  f7. } 3. Rxf6+ { A typical sacrifice which opens up the king's position. } 3... exf6 4. Qxf6+ Kg8 { Or  4...Ke8  5.Qxh8++–. } 5. Qg6+ Kf8 6. Ne6+ { And White wins: } 6... Ke7 7. Qf6+ Kd6 { Or  7...Ke8  8.Ng7#. } 8. Nf4+ Be6 9. Qxe6# { 1-0 White wins by checkmate. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-7"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-7"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-7"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/MoZxBLx8"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "1R6/4qp1k/1p4p1/2p1r3/P2p3P/3Q2P1/1P3P2/6K1 b - - 0 1"]
+[SetUp "1"]
+
+{ In order to achieve the goal of the combination, you often have to accept temporary material losses. When this is the case, you should not break off your calculation of lines too soon. The position can only be evaluated when there are no more active moves left.  In the examples which follow, we shall see once more how important the active moves are. Try to attack the opposing pieces!  J. Capablanca – A. Alekhine, World Ch, Buenos Aires  (1)  1927  (Variation from the game) }
+1... Qc7 2. Rf8 { If  2.Qb3  Qxb8  3.Qxf7+  , then  3...Kh6–+  escapes the checks.   2.Ra8  would not be good, on account of  2...Qc6–+  , with an attack on the rook and also the threat of  Re1+. } 2... Kg7 3. Ra8 Re1+ { Or first  3...Qc6. } 4. Kh2 Qc6 { With a double attack, threatening the a8-rook as well as mate on h1. } *
+
+
+[Event "1.1.15 Combinations: Combinations - Combinations 15-8"]
+[Date "????.??.??"]
+[White "Combinations"]
+[Black "Combinations 15-8"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "1.1.15 Combinations"]
+[ChapterName "Combinations - Combinations 15-8"]
+[ChapterURL "https://lichess.org/study/CwB5sm1k/CIVIKVky"]
+[Annotator "https://lichess.org/@/perdomod"]
+[FEN "2r3k1/1q3p1p/p2R2p1/bp6/6P1/P6P/1PP2QP1/5BK1 b - - 0 1"]
+[SetUp "1"]
+
+{ Em. Lasker – V. Ragozin, Moscow 1936 }
+1... Bc7 2. Rf6 { The rook must protect the b6-square! } 2... Bd8 3. Rd6 Be7 4. Rb6 Qxb6 5. Qxb6 Bc5+ { Black wins the exchange. } *
