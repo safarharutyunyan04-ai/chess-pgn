@@ -1,0 +1,272 @@
+[Event "trapping the pieces: Trapping the piece - Position 1"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 1"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 1"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/skSRdukW"]
+[FEN "rnbqk1nr/ppp1bppp/3p4/4p2Q/4P3/3P1N2/PPP2PPP/RNB1KB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+{ Trapping a piece means making it stuck so it cannot
+escape being captured on the next move. It happens when the piece has no safe
+squares to go to. --------------------------- How to Spot and Execute a
+Trap-------------------- 1) Evaluate Mobility: Check if the opponent’s piece
+has limited escape squares.------------- 2) Use Tactics: Look for moves like
+pawn pushes, forks, pins, and skewers to create threats.
+------------------------ Black to play black has to trap the queen .
+------------------------------------- Queens are powerful, but if they move
+out too early, they can get surrounded by smaller pieces. }
+1... g6 { Queen has no real safe square to escape the threat } { [%csl Gf5,Gg4,Gg5,Gh3,Gh4,Gh6] } *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 2"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 2"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 2"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/eNGjDT0n"]
+[FEN "rnb1kbnr/pppp1p1p/8/8/2B1Ppp1/2N2NqP/PPPP2P1/R1BQ1K1R w kq - 0 1"]
+[SetUp "1"]
+
+{ White to play trap a piece }
+1. Ne2 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 3"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 3"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 3"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/94CIHqVj"]
+[FEN "rnb1k1nr/ppp2pbp/3p4/8/2BPPpp1/5NqP/PPPB2P1/RN1Q1K1R w kq - 0 1"]
+[SetUp "1"]
+
+{ White to play trap a piece }
+1. Be1 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 4"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 4"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 4"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/7yvmAWD0"]
+[FEN "r1b1kb1r/ppp2p1p/2np3n/8/2BPP1p1/5pP1/PPP2NqP/RNBQK2R w KQkq - 0 1"]
+[SetUp "1"]
+
+{ White to play trap a piece }
+1. Bf1 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 5"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 5"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 5"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/rAJkovBz"]
+[FEN "rnbqk1nr/pp2bpQp/8/3p4/5P2/8/PPPP2PP/RNB1KBNR b KQkq - 0 1"]
+[SetUp "1"]
+
+{ Black to play trap the queen }
+1... Bf6 2. Qg3 Bh4 { [%cal Gh4g3,Gg3e1] } *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 6"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 6"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 6"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/QoH7zlkP"]
+[FEN "r2qk1nr/1ppb1ppp/p1np4/8/Qb2P3/P1N2N2/1PPB1PPP/R3KB1R b KQkq - 0 1"]
+[SetUp "1"]
+
+{ Black to play trap a piece }
+1... Nd4 2. Qxb4 Nxc2+ 3. Kd1 Nxb4 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 7"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 7"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 7"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/Nc4iU6sJ"]
+[FEN "rn2k2r/pppq1ppp/3b1n2/3Pp3/2B3bB/2N1P1Q1/PPP2PPP/R3K1NR b KQkq - 0 6"]
+[SetUp "1"]
+
+{ Black to play trap a piece }
+6... Nh5 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 8"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 8"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 8"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/0HQ2qsVT"]
+[FEN "r2qkb1r/1n1b1pp1/5n2/pp2p3/1p1pP2p/1Q1B4/PPPP1PPP/RNB1K1NR b KQkq - 0 2"]
+[SetUp "1"]
+
+{ Black to play trap a pice }
+2... a4 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 9"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 9"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 9"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/wwI8NPOL"]
+[FEN "r4rk1/3q1ppp/ppn2n2/2bppbB1/Q1p5/2N1PN2/PPPPBPPP/R4RK1 b - - 0 1"]
+[SetUp "1"]
+
+{ Black to play trap a piece }
+1... b5 2. Nxb5 axb5 3. Qxb5 Ra5 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 10"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 10"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 10"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/dDfrpgzP"]
+[FEN "r2q1rk1/1ppb1pp1/p4n1p/2bpp3/1n6/1PN2QP1/PBPPPPBP/R3K1NR b KQ - 0 2"]
+[SetUp "1"]
+
+{ Black to play trap a piece }
+2... Bg4 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 11"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 11"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 11"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/SXGnBMMA"]
+[FEN "r1b1kb1r/pp1p1ppp/2n1pn2/2p5/3P1B2/P1N1PN2/1qP2PPP/R2QKB1R w KQkq - 0 7"]
+[SetUp "1"]
+
+{ White to play trap a piece }
+7. Na4 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 12"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 12"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 12"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/Ijrl7UY5"]
+[FEN "r4rk1/pp2bppp/2ppbqn1/8/3pP3/1B1P1N2/PPP2PPP/R1BQ1RK1 w - - 0 13"]
+[SetUp "1"]
+
+{ White to plat trap a piece }
+13. Bg5 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 13"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 13"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 13"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/PYTkLqPO"]
+[FEN "rnb1kbnr/pp2pppp/3p4/1NpP4/4P3/8/1qPB1PPP/R2QKBNR w Kkq - 0 9"]
+[SetUp "1"]
+
+{ White to play trap a piece }
+9. Bc3 *
+
+
+[Event "trapping the pieces: Trapping the piece - Position 15"]
+[Date "2024.12.29"]
+[White "Trapping the piece"]
+[Black "Position 15"]
+[Result "*"]
+[Annotator "CircleChess"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "trapping the pieces"]
+[ChapterName "Trapping the piece - Position 15"]
+[ChapterURL "https://lichess.org/study/3Z6sefyt/I3x2vExq"]
+[FEN "r1b1kbn1/1pp2ppr/p2n2q1/6Bp/2B1P2P/2N2N2/PP3PP1/R2QK2R w KQq - 0 1"]
+[SetUp "1"]
+
+{ White to play trap a piece }
+1. Ne5 *
