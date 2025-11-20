@@ -273,27 +273,3 @@ White to Move }
 
 Black to Move }
 1... Qxg5+ 2. Qxg5 Bxg5+ 3. Kxg5 h4 4. Rh2 Rh5# *
-
-
-
-[Event "Remove the Defender: Remove the Defender 15"]
-[Site "https://lichess.org/study/ZRy7a8oF/MCmzBOw6"]
-[Date "2025.09.02"]
-[Result "*"]
-[Annotator "https://lichess.org/@/Rawnsdale"]
-[FEN "rn1qkbnr/3ppppp/p1b5/2N5/1p1N4/1B6/PPP2P1P/R1BQK1R1 w - - 0 1"]
-[Variant "From Position"]
-[ECO "?"]
-[Opening "?"]
-[StudyName "Removing defender"]
-[ChapterName "Remove the Defender: Remove the Defender 15"]
-[ChapterURL "https://lichess.org/study/LI65f8qp/KxbwY6gm"]
-[FEN "rn1qkbnr/3ppppp/p1b5/2N5/1p1N4/1B6/PPP2P1P/R1BQK1R1 w - - 0 1"]
-[SetUp "1"]
-[UTCDate "2025.09.02"]
-[UTCTime "09:07:44"]
-
-{ Estrin vs Katalymow, 1969
-
-White to Move }
-1. Bxf7+ Kxf7 2. Rxg7+ Bxg7 *
